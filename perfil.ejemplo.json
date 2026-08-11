@@ -1,0 +1,81 @@
+{
+  "nombre_empresa": "Comercializadora Andes SpA",
+  "descripcion": "Importadora y comercializadora de equipamiento e insumos. Bodega en Santiago, capacidad de armado y kitting propio. Sin planta industrial.",
+  "rubros_objetivo": [
+    "equipamiento de oficina y mobiliario",
+    "insumos de aseo e higiene",
+    "elementos de protección personal (EPP)",
+    "equipamiento informático y periféricos",
+    "herramientas y ferretería",
+    "insumos médicos no críticos"
+  ],
+  "palabras_clave_incluir": [
+    "suministro",
+    "adquisición",
+    "compra",
+    "equipamiento",
+    "insumos",
+    "mobiliario",
+    "computador",
+    "notebook",
+    "impresora",
+    "toner",
+    "epp",
+    "guantes",
+    "mascarilla",
+    "zapato de seguridad",
+    "aseo",
+    "papel",
+    "herramienta",
+    "mantención de equipos"
+  ],
+  "palabras_clave_excluir": [
+    "obra civil",
+    "construcción",
+    "pavimentación",
+    "movimiento de tierra",
+    "servicio de vigilancia",
+    "servicio de alimentación",
+    "asesoría jurídica",
+    "consultoría",
+    "capacitación",
+    "arriendo de inmueble",
+    "combustible",
+    "medicamento",
+    "farmacos"
+  ],
+  "capacidades": {
+    "fabricacion_propia": [],
+    "armado_kitting": true,
+    "stock_actual": [
+      "insumos de aseo",
+      "papelería",
+      "EPP básico"
+    ],
+    "proveedores_locales": true,
+    "importacion": {
+      "activa": true,
+      "paises": ["China", "Perú", "Brasil"],
+      "lead_time_dias": 55,
+      "incoterm_habitual": "FOB",
+      "monto_minimo_orden_usd": 5000
+    }
+  },
+  "restricciones": {
+    "monto_minimo_clp": 8000000,
+    "monto_maximo_clp": 600000000,
+    "dias_minimos_al_cierre": 5,
+    "margen_minimo_pct": 18,
+    "capital_trabajo_clp": 120000000,
+    "acepta_boleta_garantia": true,
+    "tiene_experiencia_previa_estado": true,
+    "exigir_coincidencia_palabras_clave": true
+  },
+  "certificaciones": ["ISO 9001"],
+  "regiones_operacion": [
+    "Región Metropolitana de Santiago",
+    "Región de Valparaíso",
+    "Región del Libertador General Bernardo O'Higgins"
+  ],
+  "notas_estrategicas": "Priorizamos volumen medio con especificaciones abiertas. Evitamos licitaciones con marca única o con exigencia de representación oficial de fabricante. La importación solo es viable si el plazo de entrega supera los 70 días corridos."
+}

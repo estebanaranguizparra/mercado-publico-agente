@@ -1,0 +1,35 @@
+# Entorno
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+# Credenciales y perfil real
+.env
+perfil.json
+
+# La base pesa >100 MB y se reconstruye desde la API.
+# Lo que sí viaja es contexto/contexto.json, que son ~90 KB.
+data/*.db
+data/mock/
+
+# Documentos de bases descargados: se vuelven a bajar cuando hagan falta
+bases/*/fuente/
+
+# Empaquetado
+dist/
+build/
+*.egg-info/
+
+# Informes locales (los reportes de la rutina nocturna sí se versionan, en reportes/)
+informes/
+
+# Logs de corridas locales
+logs/
+
+# Ofertas y su contenido: costos, precios y estrategia.
+# El repo es público para que la rutina en la nube pueda clonarlo, así que
+# esto se queda en el Mac. El agente nocturno no lo necesita.
+propuestas/
+cotizaciones/
