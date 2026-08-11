@@ -262,16 +262,53 @@ específicamente qué importar, `--solo-bienes` restringe a mercadería física
 El puntaje de 0 a 100 combina esas señales con pesos explícitos y deja
 registrado por qué sumó cada una. No reemplaza el juicio: ordena qué mirar.
 
+### Proveedores, cotizaciones y garantías
+
+Lo que se investiga sobre quién puede proveer y cómo cubrir una garantía también
+se guarda, para no repetir la búsqueda en cada corrida:
+
+```bash
+mpagente proveedor                       # empresas y profesionales conocidos
+mpagente proveedor --filtro-tipo profesional --familia 8611
+mpagente cotizacion 1388961-41-LE26      # comparativo de una oportunidad
+mpagente garantia                        # instrumentos, los que no inmovilizan capital primero
+```
+
 ## El equipo de agentes
 
 Sobre la CLI hay cinco subagentes de Claude Code que convierten los datos en
 decisiones comerciales, más un orquestador:
 
 ```
-buscador-leads → analista-leads → [alto: tú eliges] → equipo-construccion
-                                                        ↓            ↓
-                                            propuesta-tecnica  propuesta-economica
+buscador-leads → analista-leads (triage) → lector-bases → buscador-financiamiento
+                                                    ↓
+                                          analista-leads (veredicto)
+                                                    ↓
+                                          [alto: tú eliges qué avanza]
+                                                    ↓
+                                     equipo-construccion (qué conseguir)
+                                          ↓                    ↓
+                             buscador-empresas    buscador-profesionales
+                                          ↘                    ↙
+                                    solicitador-cotizaciones
+                                                    ↓
+                                    equipo-construccion (costo real)
+                                          ↓                    ↓
+                              propuesta-tecnica    propuesta-economica
 ```
+
+Son diez. Dos corren dos veces a propósito: `analista-leads` descarta barato con
+datos de la API y después decide con las bases en la mano; `equipo-construccion`
+primero define qué hay que conseguir y luego cierra el costo con cotizaciones
+reales.
+
+**`buscador-financiamiento` va antes del veredicto**, no después: las garantías
+son la causa más común de descarte, y una póliza de caución o una Sociedad de
+Garantía Recíproca las emite sin inmovilizar capital. Descubrirlo tarde es
+perder la licitación por un supuesto equivocado.
+
+**`solicitador-cotizaciones` nunca envía correos.** Deja borradores para que una
+persona los revise: van a empresas reales y un correo enviado no se deshace.
 
 Se corre con `/ciclo-comercial`, opcionalmente acotado:
 
@@ -297,6 +334,41 @@ Estado— y tienen prohibido inventar experiencia o certificaciones.
 
 Las plantillas genéricas de las que salieron quedaron en `Area Autonoma/`, por si
 alguna vez sirven para clientes privados.
+
+## Corriendo solo, de noche
+
+Hay una rutina en la nube que corre **cada noche a las 02:00 de Santiago** y deja
+un reporte listo para leer a las 8:30, en `reportes/` y en Google Drive. No
+depende de que el computador esté encendido.
+
+Recolecta lo que está abierto, hace el triage, lee las bases de las mejores y,
+si la garantía es el problema, busca cómo cubrirla antes de descartar. Registra
+cada decisión con su motivo y commitea el contexto actualizado, así que a la
+noche siguiente recuerda lo que decidió hoy.
+
+Se administra en [claude.ai/code/routines](https://claude.ai/code/routines).
+
+### Lo que hay que hacer a mano de vez en cuando
+
+El histórico de adjudicaciones —de donde salen el precio de referencia y la
+competencia— **no se actualiza en la nube**: son 12 horas de descarga contra una
+API pública. Cada dos o tres semanas conviene refrescarlo desde el computador:
+
+```bash
+mpagente recolectar --meses 12                      # cuando haga falta, toma horas
+mpagente contexto contexto/contexto.json            # exporta lo que viaja
+git add -A && git commit -m "Contexto actualizado" && git push
+```
+
+Sin eso el sistema sigue funcionando, pero con precios de referencia cada vez más
+viejos.
+
+### Sobre el repositorio público
+
+Este repo es público a propósito: dar acceso a repos privados a un agente en la
+nube exige plan Claude Team o Enterprise. Por eso **`propuestas/` y
+`cotizaciones/` están fuera del repo** — los costos y los precios de oferta se
+quedan en el computador. Si preparas una oferta, no la commitees.
 
 ## Inspeccionar descargas masivas (alternativa manual)
 

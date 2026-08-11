@@ -56,6 +56,8 @@ Si `.venv` no existe: `/opt/homebrew/bin/python3.12 -m venv .venv && .venv/bin/p
 ## Mapa del código
 
 ```
+scripts/extraer_texto.py   # PDF/DOCX → texto, para leer bases (pypdf, python-docx)
+contexto/contexto.json     # ~92 KB: lo que viaja a la nube. Se versiona.
 src/mpagente/
 ├── cli.py            # subcomandos; frontera donde se capturan los errores
 ├── config.py         # .env + carga de perfil.json
@@ -212,6 +214,52 @@ se vuelve a evaluar lo ya descartado.
   Una oferta en curso no es una derrota; incluirla daría una tasa falsamente baja.
 - El motivo de un descarte es el dato más valioso de la tabla. Cualquier cambio
   que lo haga opcional o lo sobrescriba en silencio rompe el propósito.
+
+## Autonomía: la rutina nocturna
+
+Hay un agente en la nube que corre **todas las noches a las 02:00 de Santiago**
+(`0 6 * * *` UTC) y deja un reporte en `reportes/AAAA-MM-DD.md` y en Google
+Drive, para leerlo a las 8:30. Se administra en
+[claude.ai/code/routines](https://claude.ai/code/routines) —
+`trig_01TcKRcAxJJAfCwXrVPrPMLu`.
+
+**Corre en un sandbox aislado: no tiene este Mac ni la base de 112 MB.** Lo que
+lo hace posible es `mpagente contexto`, que exporta ~92 KB con el agregado de
+precio y competencia por familia más todo el pipeline de decisiones,
+proveedores, cotizaciones e instrumentos de garantía. El agente lo importa al
+empezar y lo re-exporta al terminar, así que el estado persiste de una noche a
+otra sin que el Mac participe.
+
+- **El histórico de adjudicaciones NO se actualiza en la nube.** Son 12 horas de
+  descarga y el agente tiene prohibido correr `recolectar`. El precio de
+  referencia se congela en el último `mpagente contexto` que se haga acá; hay que
+  refrescarlo a mano cada dos o tres semanas.
+- **`exportar_contexto()` combina lo calculado con lo heredado.** Sin eso, una
+  corrida sin adjudicaciones crudas exportaría cero familias y el commit
+  nocturno borraría el histórico de precios para siempre. Hay un test que lo
+  cubre (`test_reexportar_sin_base_cruda_no_borra_el_historico`); no lo quites.
+- El agente nocturno **no invoca `solicitador-cotizaciones`**: sus correos los
+  revisa una persona despierta.
+
+### El repositorio es público, y eso condiciona qué se commitea
+
+`github.com/estebanaranguizparra/mercado-publico-agente` es **público a
+propósito**: instalar la GitHub App que da acceso a repos privados exige plan
+Claude Team o Enterprise, y una app autorizada siempre puede leer lo público.
+
+Por eso `propuestas/` y `cotizaciones/` están en `.gitignore`: los costos y los
+precios de oferta se quedan en el Mac. **Nunca commitees un precio que se va a
+ofertar** — es información que la competencia puede leer.
+
+Dos trampas de git que costaron un susto:
+
+- **Sacar un archivo del último commit no lo borra del historial.** Quedaba
+  visible en los commits anteriores. Hubo que rehacer el historial desde cero
+  con `git checkout --orphan` antes de abrir el repo.
+- **`git checkout --orphan` conserva el índice**, así que `git add -A` vuelve a
+  incluir archivos recién agregados a `.gitignore` si ya estaban registrados.
+  Hay que `git rm -r --cached` explícitamente y verificar con
+  `git log --branches --name-only` antes de publicar.
 
 ## Convenciones
 
