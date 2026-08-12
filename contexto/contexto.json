@@ -1,5 +1,5 @@
 {
- "generado_en": "2026-08-11T11:42:36",
+ "generado_en": "2026-08-12T06:10:38",
  "familias": [
   {
    "familia": "1010",
@@ -9,7 +9,8 @@
    "precio_p25": 30000.0,
    "precio_mediano": 135000.0,
    "precio_p75": 957600.0,
-   "monto_total": 589667732.0
+   "monto_total": 589667732.0,
+   "heredada": true
   },
   {
    "familia": "1011",
@@ -19,7 +20,8 @@
    "precio_p25": 9900.0,
    "precio_mediano": 33244.0,
    "precio_p75": 3566559.0,
-   "monto_total": 2880868896.463
+   "monto_total": 2880868896.463,
+   "heredada": true
   },
   {
    "familia": "1012",
@@ -29,7 +31,8 @@
    "precio_p25": 723.0,
    "precio_mediano": 3772.0,
    "precio_p75": 24376.0,
-   "monto_total": 457231419.8
+   "monto_total": 457231419.8,
+   "heredada": true
   },
   {
    "familia": "1013",
@@ -39,7 +42,8 @@
    "precio_p25": 260000000.0,
    "precio_mediano": 260000000.0,
    "precio_p75": 260000000.0,
-   "monto_total": 260000000.0
+   "monto_total": 260000000.0,
+   "heredada": true
   },
   {
    "familia": "1014",
@@ -49,7 +53,8 @@
    "precio_p25": 83500.0,
    "precio_mediano": 327375.0,
    "precio_p75": 1665635.0,
-   "monto_total": 489679888.0
+   "monto_total": 489679888.0,
+   "heredada": true
   },
   {
    "familia": "1015",
@@ -59,7 +64,8 @@
    "precio_p25": 9800.0,
    "precio_mediano": 29040.0,
    "precio_p75": 70000.0,
-   "monto_total": 1735490653.178
+   "monto_total": 1735490653.178,
+   "heredada": true
   },
   {
    "familia": "1016",
@@ -69,7 +75,8 @@
    "precio_p25": 7000.0,
    "precio_mediano": 20000.0,
    "precio_p75": 400000.0,
-   "monto_total": 73269021.0
+   "monto_total": 73269021.0,
+   "heredada": true
   },
   {
    "familia": "1017",
@@ -79,7 +86,8 @@
    "precio_p25": 18566.0,
    "precio_mediano": 57232.0,
    "precio_p75": 850402.0,
-   "monto_total": 402927617.0
+   "monto_total": 402927617.0,
+   "heredada": true
   },
   {
    "familia": "1019",
@@ -89,7 +97,8 @@
    "precio_p25": 8528.0,
    "precio_mediano": 24640.0,
    "precio_p75": 1184400.0,
-   "monto_total": 450550898.0
+   "monto_total": 450550898.0,
+   "heredada": true
   },
   {
    "familia": "1021",
@@ -99,7 +108,8 @@
    "precio_p25": 126204498.0,
    "precio_mediano": 169445947.0,
    "precio_p75": 338920378.0,
-   "monto_total": 2998417858.0
+   "monto_total": 2998417858.0,
+   "heredada": true
   },
   {
    "familia": "1041",
@@ -109,7 +119,8 @@
    "precio_p25": 75251407.0,
    "precio_mediano": 228730700.0,
    "precio_p75": 434941979.0,
-   "monto_total": 5963773772.727
+   "monto_total": 5963773772.727,
+   "heredada": true
   },
   {
    "familia": "1110",
@@ -119,7 +130,8 @@
    "precio_p25": 2868.0,
    "precio_mediano": 6303.0,
    "precio_p75": 22500.0,
-   "monto_total": 780286839.0
+   "monto_total": 780286839.0,
+   "heredada": true
   },
   {
    "familia": "1111",
@@ -129,7 +141,8 @@
    "precio_p25": 12000.0,
    "precio_mediano": 22397.0,
    "precio_p75": 31442.0,
-   "monto_total": 4183497255.07563
+   "monto_total": 4183497255.07563,
+   "heredada": true
   },
   {
    "familia": "1112",
@@ -139,7 +152,8 @@
    "precio_p25": 2850.0,
    "precio_mediano": 11000.0,
    "precio_p75": 45000.0,
-   "monto_total": 3332184538.71
+   "monto_total": 3332184538.71,
+   "heredada": true
   },
   {
    "familia": "1113",
@@ -149,7 +163,8 @@
    "precio_p25": 4020.0,
    "precio_mediano": 6722.0,
    "precio_p75": 6722.0,
-   "monto_total": 53074335.0
+   "monto_total": 53074335.0,
+   "heredada": true
   },
   {
    "familia": "1114",
@@ -159,7 +174,8 @@
    "precio_p25": 3180.0,
    "precio_mediano": 51850.0,
    "precio_p75": 8403361.0,
-   "monto_total": 291910749.0
+   "monto_total": 291910749.0,
+   "heredada": true
   },
   {
    "familia": "1115",
@@ -169,7 +185,8 @@
    "precio_p25": 1500.0,
    "precio_mediano": 3590.0,
    "precio_p75": 9900.0,
-   "monto_total": 278796483.0
+   "monto_total": 278796483.0,
+   "heredada": true
   },
   {
    "familia": "1116",
@@ -179,7 +196,8 @@
    "precio_p25": 5850.0,
    "precio_mediano": 39620.0,
    "precio_p75": 121600.0,
-   "monto_total": 232863276.0
+   "monto_total": 232863276.0,
+   "heredada": true
   },
   {
    "familia": "1118",
@@ -189,7 +207,8 @@
    "precio_p25": 5635.0,
    "precio_mediano": 5635.0,
    "precio_p75": 5635.0,
-   "monto_total": 1513132.0
+   "monto_total": 1513132.0,
+   "heredada": true
   },
   {
    "familia": "1213",
@@ -199,7 +218,8 @@
    "precio_p25": 1191.0,
    "precio_mediano": 1191.0,
    "precio_p75": 1191.0,
-   "monto_total": 19588949.0
+   "monto_total": 19588949.0,
+   "heredada": true
   },
   {
    "familia": "1214",
@@ -209,7 +229,8 @@
    "precio_p25": 1400.0,
    "precio_mediano": 20000.0,
    "precio_p75": 150986.0,
-   "monto_total": 1053459766.13
+   "monto_total": 1053459766.13,
+   "heredada": true
   },
   {
    "familia": "1216",
@@ -219,7 +240,8 @@
    "precio_p25": 742.0,
    "precio_mediano": 4120.0,
    "precio_p75": 29966.0,
-   "monto_total": 1466558861.24
+   "monto_total": 1466558861.24,
+   "heredada": true
   },
   {
    "familia": "1217",
@@ -229,7 +251,8 @@
    "precio_p25": 12842.63,
    "precio_mediano": 736020.0,
    "precio_p75": 2080490.0,
-   "monto_total": 211661080.78
+   "monto_total": 211661080.78,
+   "heredada": true
   },
   {
    "familia": "1218",
@@ -239,7 +262,8 @@
    "precio_p25": 1250.0,
    "precio_mediano": 1900.0,
    "precio_p75": 2500.0,
-   "monto_total": 17838387.31
+   "monto_total": 17838387.31,
+   "heredada": true
   },
   {
    "familia": "1219",
@@ -249,7 +273,8 @@
    "precio_p25": 1050.0,
    "precio_mediano": 2150.0,
    "precio_p75": 3200.0,
-   "monto_total": 369594079.0
+   "monto_total": 369594079.0,
+   "heredada": true
   },
   {
    "familia": "1235",
@@ -259,7 +284,8 @@
    "precio_p25": 4500.0,
    "precio_mediano": 15750.0,
    "precio_p75": 238000.0,
-   "monto_total": 511235477.62
+   "monto_total": 511235477.62,
+   "heredada": true
   },
   {
    "familia": "1310",
@@ -269,7 +295,8 @@
    "precio_p25": 4970.0,
    "precio_mediano": 53499.0,
    "precio_p75": 142000.0,
-   "monto_total": 794919022.0
+   "monto_total": 794919022.0,
+   "heredada": true
   },
   {
    "familia": "1311",
@@ -279,7 +306,8 @@
    "precio_p25": 12150.0,
    "precio_mediano": 24790.0,
    "precio_p75": 126000.0,
-   "monto_total": 259856619.0
+   "monto_total": 259856619.0,
+   "heredada": true
   },
   {
    "familia": "1410",
@@ -289,7 +317,8 @@
    "precio_p25": 1890.0,
    "precio_mediano": 1890.0,
    "precio_p75": 1890.0,
-   "monto_total": 624470.0
+   "monto_total": 624470.0,
+   "heredada": true
   },
   {
    "familia": "1411",
@@ -299,7 +328,8 @@
    "precio_p25": 725.0,
    "precio_mediano": 2884.0,
    "precio_p75": 23529.41,
-   "monto_total": 6853447934.707838
+   "monto_total": 6853447934.707838,
+   "heredada": true
   },
   {
    "familia": "1412",
@@ -309,7 +339,8 @@
    "precio_p25": 98.0,
    "precio_mediano": 406.0,
    "precio_p75": 1463.0,
-   "monto_total": 168349244.0
+   "monto_total": 168349244.0,
+   "heredada": true
   },
   {
    "familia": "1510",
@@ -319,7 +350,8 @@
    "precio_p25": 1223.529,
    "precio_mediano": 1480.0,
    "precio_p75": 60504.0,
-   "monto_total": 921537530.5064
+   "monto_total": 921537530.5064,
+   "heredada": true
   },
   {
    "familia": "1511",
@@ -329,7 +361,8 @@
    "precio_p25": 2800.0,
    "precio_mediano": 7590.0,
    "precio_p75": 83600.0,
-   "monto_total": 143967874.0
+   "monto_total": 143967874.0,
+   "heredada": true
   },
   {
    "familia": "1512",
@@ -339,7 +372,8 @@
    "precio_p25": 6237.0,
    "precio_mediano": 18284.0,
    "precio_p75": 171360.0,
-   "monto_total": 1952225035.1999998
+   "monto_total": 1952225035.1999998,
+   "heredada": true
   },
   {
    "familia": "2010",
@@ -349,7 +383,8 @@
    "precio_p25": 50000.0,
    "precio_mediano": 481989.0,
    "precio_p75": 1551000.0,
-   "monto_total": 5589735152.21
+   "monto_total": 5589735152.21,
+   "heredada": true
   },
   {
    "familia": "2011",
@@ -359,7 +394,8 @@
    "precio_p25": 73600.0,
    "precio_mediano": 4880000.0,
    "precio_p75": 23530000.0,
-   "monto_total": 719207372.5
+   "monto_total": 719207372.5,
+   "heredada": true
   },
   {
    "familia": "2012",
@@ -369,7 +405,8 @@
    "precio_p25": 8500.0,
    "precio_mediano": 58235.0,
    "precio_p75": 1820000.0,
-   "monto_total": 690845649.88
+   "monto_total": 690845649.88,
+   "heredada": true
   },
   {
    "familia": "2014",
@@ -379,7 +416,8 @@
    "precio_p25": 69165.0,
    "precio_mediano": 74000.0,
    "precio_p75": 200000.0,
-   "monto_total": 40133571.0
+   "monto_total": 40133571.0,
+   "heredada": true
   },
   {
    "familia": "2110",
@@ -389,7 +427,8 @@
    "precio_p25": 1910.0,
    "precio_mediano": 39226.0,
    "precio_p75": 4533522.0,
-   "monto_total": 816490664.165
+   "monto_total": 816490664.165,
+   "heredada": true
   },
   {
    "familia": "2111",
@@ -399,7 +438,8 @@
    "precio_p25": 387850.0,
    "precio_mediano": 467850.0,
    "precio_p75": 467850.0,
-   "monto_total": 77502400.0
+   "monto_total": 77502400.0,
+   "heredada": true
   },
   {
    "familia": "2210",
@@ -409,7 +449,8 @@
    "precio_p25": 39000.0,
    "precio_mediano": 222756.0,
    "precio_p75": 7708500.0,
-   "monto_total": 552218316619.3467
+   "monto_total": 552218316619.3467,
+   "heredada": true
   },
   {
    "familia": "2310",
@@ -419,7 +460,8 @@
    "precio_p25": 61177.0,
    "precio_mediano": 239990.0,
    "precio_p75": 303000.0,
-   "monto_total": 155051796.0
+   "monto_total": 155051796.0,
+   "heredada": true
   },
   {
    "familia": "2312",
@@ -429,7 +471,8 @@
    "precio_p25": 350.0,
    "precio_mediano": 580.0,
    "precio_p75": 580.0,
-   "monto_total": 68539215.0
+   "monto_total": 68539215.0,
+   "heredada": true
   },
   {
    "familia": "2313",
@@ -439,7 +482,8 @@
    "precio_p25": 9800.0,
    "precio_mediano": 12005.0,
    "precio_p75": 15009.0,
-   "monto_total": 52812791.0
+   "monto_total": 52812791.0,
+   "heredada": true
   },
   {
    "familia": "2315",
@@ -449,7 +493,8 @@
    "precio_p25": 7563.0,
    "precio_mediano": 23990.0,
    "precio_p75": 607700.0,
-   "monto_total": 1945370255.0
+   "monto_total": 1945370255.0,
+   "heredada": true
   },
   {
    "familia": "2316",
@@ -459,7 +504,8 @@
    "precio_p25": 1700.0,
    "precio_mediano": 1700.0,
    "precio_p75": 1700.0,
-   "monto_total": 7606742.0
+   "monto_total": 7606742.0,
+   "heredada": true
   },
   {
    "familia": "2317",
@@ -469,7 +515,8 @@
    "precio_p25": 3739.0,
    "precio_mediano": 9050.0,
    "precio_p75": 25000.0,
-   "monto_total": 961190113.0
+   "monto_total": 961190113.0,
+   "heredada": true
   },
   {
    "familia": "2318",
@@ -479,7 +526,8 @@
    "precio_p25": 352000.0,
    "precio_mediano": 385000.0,
    "precio_p75": 385000.0,
-   "monto_total": 14488000.0
+   "monto_total": 14488000.0,
+   "heredada": true
   },
   {
    "familia": "2320",
@@ -489,7 +537,8 @@
    "precio_p25": 3674.0,
    "precio_mediano": 25361.0,
    "precio_p75": 25361.0,
-   "monto_total": 20993588.0
+   "monto_total": 20993588.0,
+   "heredada": true
   },
   {
    "familia": "2321",
@@ -499,7 +548,8 @@
    "precio_p25": 3000.0,
    "precio_mediano": 3000.0,
    "precio_p75": 3000.0,
-   "monto_total": 2996000.0
+   "monto_total": 2996000.0,
+   "heredada": true
   },
   {
    "familia": "2323",
@@ -509,7 +559,8 @@
    "precio_p25": 5850.0,
    "precio_mediano": 10815.0,
    "precio_p75": 41238.0,
-   "monto_total": 26425808.0
+   "monto_total": 26425808.0,
+   "heredada": true
   },
   {
    "familia": "2410",
@@ -519,7 +570,8 @@
    "precio_p25": 36034.0,
    "precio_mediano": 107100.0,
    "precio_p75": 5040000.0,
-   "monto_total": 1778533946.078
+   "monto_total": 1778533946.078,
+   "heredada": true
   },
   {
    "familia": "2411",
@@ -529,7 +581,8 @@
    "precio_p25": 336.0,
    "precio_mediano": 4900.0,
    "precio_p75": 140250.0,
-   "monto_total": 2367897014.35
+   "monto_total": 2367897014.35,
+   "heredada": true
   },
   {
    "familia": "2412",
@@ -539,7 +592,8 @@
    "precio_p25": 3670.0,
    "precio_mediano": 7900.0,
    "precio_p75": 18279.0,
-   "monto_total": 109772578.32
+   "monto_total": 109772578.32,
+   "heredada": true
   },
   {
    "familia": "2413",
@@ -549,7 +603,8 @@
    "precio_p25": 65000.0,
    "precio_mediano": 920633.0,
    "precio_p75": 5210580.0,
-   "monto_total": 537808673.0
+   "monto_total": 537808673.0,
+   "heredada": true
   },
   {
    "familia": "2414",
@@ -559,7 +614,8 @@
    "precio_p25": 4234.0,
    "precio_mediano": 12000.0,
    "precio_p75": 25235.0,
-   "monto_total": 213320656.0
+   "monto_total": 213320656.0,
+   "heredada": true
   },
   {
    "familia": "2510",
@@ -569,7 +625,8 @@
    "precio_p25": 2800000.0,
    "precio_mediano": 10990990.0,
    "precio_p75": 36600000.0,
-   "monto_total": 25765275982.52
+   "monto_total": 25765275982.52,
+   "heredada": true
   },
   {
    "familia": "2511",
@@ -579,7 +636,8 @@
    "precio_p25": 36000.0,
    "precio_mediano": 1664000.0,
    "precio_p75": 18750000.0,
-   "monto_total": 1885303259.3
+   "monto_total": 1885303259.3,
+   "heredada": true
   },
   {
    "familia": "2513",
@@ -589,7 +647,8 @@
    "precio_p25": 33800.0,
    "precio_mediano": 1710000.0,
    "precio_p75": 11838792.0,
-   "monto_total": 1543876908.122
+   "monto_total": 1543876908.122,
+   "heredada": true
   },
   {
    "familia": "2516",
@@ -599,7 +658,8 @@
    "precio_p25": 23000.0,
    "precio_mediano": 210084.0,
    "precio_p75": 1000000.0,
-   "monto_total": 18396221.0
+   "monto_total": 18396221.0,
+   "heredada": true
   },
   {
    "familia": "2517",
@@ -609,7 +669,8 @@
    "precio_p25": 60368.0,
    "precio_mediano": 186921.0,
    "precio_p75": 1508450.0,
-   "monto_total": 2095872423.571882
+   "monto_total": 2095872423.571882,
+   "heredada": true
   },
   {
    "familia": "2518",
@@ -619,7 +680,8 @@
    "precio_p25": 12700.0,
    "precio_mediano": 4600000.0,
    "precio_p75": 15330883.0,
-   "monto_total": 96132277.95
+   "monto_total": 96132277.95,
+   "heredada": true
   },
   {
    "familia": "2519",
@@ -629,7 +691,8 @@
    "precio_p25": 8700.0,
    "precio_mediano": 33700.0,
    "precio_p75": 665944.0,
-   "monto_total": 2270667361.0
+   "monto_total": 2270667361.0,
+   "heredada": true
   },
   {
    "familia": "2520",
@@ -639,7 +702,8 @@
    "precio_p25": 4482.0,
    "precio_mediano": 705990.0,
    "precio_p75": 8372500.0,
-   "monto_total": 363132775.49
+   "monto_total": 363132775.49,
+   "heredada": true
   },
   {
    "familia": "2610",
@@ -649,7 +713,8 @@
    "precio_p25": 8393.0,
    "precio_mediano": 45000.0,
    "precio_p75": 754244.0,
-   "monto_total": 443099176.0
+   "monto_total": 443099176.0,
+   "heredada": true
   },
   {
    "familia": "2611",
@@ -659,7 +724,8 @@
    "precio_p25": 8588.0,
    "precio_mediano": 105000.0,
    "precio_p75": 2226891.0,
-   "monto_total": 2548298465.38
+   "monto_total": 2548298465.38,
+   "heredada": true
   },
   {
    "familia": "2612",
@@ -669,7 +735,8 @@
    "precio_p25": 1450.0,
    "precio_mediano": 5379.0,
    "precio_p75": 33000.0,
-   "monto_total": 1596662895.0
+   "monto_total": 1596662895.0,
+   "heredada": true
   },
   {
    "familia": "2613",
@@ -679,7 +746,8 @@
    "precio_p25": 37000.0,
    "precio_mediano": 890000.0,
    "precio_p75": 4690600.0,
-   "monto_total": 266470671.99999198
+   "monto_total": 266470671.99999198,
+   "heredada": true
   },
   {
    "familia": "2614",
@@ -689,7 +757,8 @@
    "precio_p25": 40000.0,
    "precio_mediano": 6300000.0,
    "precio_p75": 6300000.0,
-   "monto_total": 16761640.0
+   "monto_total": 16761640.0,
+   "heredada": true
   },
   {
    "familia": "2711",
@@ -699,7 +768,8 @@
    "precio_p25": 2846.0,
    "precio_mediano": 8060.0,
    "precio_p75": 31500.0,
-   "monto_total": 3360017406.7649
+   "monto_total": 3360017406.7649,
+   "heredada": true
   },
   {
    "familia": "2712",
@@ -709,7 +779,8 @@
    "precio_p25": 780.0,
    "precio_mediano": 1900.0,
    "precio_p75": 4500.0,
-   "monto_total": 343113314.0
+   "monto_total": 343113314.0,
+   "heredada": true
   },
   {
    "familia": "2713",
@@ -719,7 +790,8 @@
    "precio_p25": 20000.0,
    "precio_mediano": 93087.0,
    "precio_p75": 165000.0,
-   "monto_total": 117767041.0
+   "monto_total": 117767041.0,
+   "heredada": true
   },
   {
    "familia": "3010",
@@ -729,7 +801,8 @@
    "precio_p25": 6300.0,
    "precio_mediano": 15075.0,
    "precio_p75": 59360.0,
-   "monto_total": 5538742420.31
+   "monto_total": 5538742420.31,
+   "heredada": true
   },
   {
    "familia": "3011",
@@ -739,7 +812,8 @@
    "precio_p25": 3500.0,
    "precio_mediano": 5701.0,
    "precio_p75": 21750.0,
-   "monto_total": 752230365.0
+   "monto_total": 752230365.0,
+   "heredada": true
   },
   {
    "familia": "3012",
@@ -749,7 +823,8 @@
    "precio_p25": 4900.0,
    "precio_mediano": 135311.0,
    "precio_p75": 257900.0,
-   "monto_total": 3155142461.3647
+   "monto_total": 3155142461.3647,
+   "heredada": true
   },
   {
    "familia": "3013",
@@ -759,7 +834,8 @@
    "precio_p25": 11877.0,
    "precio_mediano": 30000.0,
    "precio_p75": 670100.0,
-   "monto_total": 557173137.3647
+   "monto_total": 557173137.3647,
+   "heredada": true
   },
   {
    "familia": "3014",
@@ -769,7 +845,8 @@
    "precio_p25": 7800.0,
    "precio_mediano": 11350.0,
    "precio_p75": 5002735.0,
-   "monto_total": 132487480.0
+   "monto_total": 132487480.0,
+   "heredada": true
   },
   {
    "familia": "3015",
@@ -779,7 +856,8 @@
    "precio_p25": 10076.0,
    "precio_mediano": 150000.0,
    "precio_p75": 7300600.0,
-   "monto_total": 870571716.0
+   "monto_total": 870571716.0,
+   "heredada": true
   },
   {
    "familia": "3016",
@@ -789,7 +867,8 @@
    "precio_p25": 11077.0,
    "precio_mediano": 108800.0,
    "precio_p75": 1462500.0,
-   "monto_total": 961161223.0
+   "monto_total": 961161223.0,
+   "heredada": true
   },
   {
    "familia": "3017",
@@ -799,7 +878,8 @@
    "precio_p25": 21000.0,
    "precio_mediano": 79000.0,
    "precio_p75": 207366.0,
-   "monto_total": 1095413237.0
+   "monto_total": 1095413237.0,
+   "heredada": true
   },
   {
    "familia": "3018",
@@ -809,7 +889,8 @@
    "precio_p25": 6000.0,
    "precio_mediano": 15000.0,
    "precio_p75": 79000.0,
-   "monto_total": 643906558.0
+   "monto_total": 643906558.0,
+   "heredada": true
   },
   {
    "familia": "3019",
@@ -819,7 +900,8 @@
    "precio_p25": 378000.0,
    "precio_mediano": 2464029.0,
    "precio_p75": 2464029.0,
-   "monto_total": 47090911.0
+   "monto_total": 47090911.0,
+   "heredada": true
   },
   {
    "familia": "3020",
@@ -829,7 +911,8 @@
    "precio_p25": 2000.0,
    "precio_mediano": 6500.0,
    "precio_p75": 29600.0,
-   "monto_total": 18757083155.78
+   "monto_total": 18757083155.78,
+   "heredada": true
   },
   {
    "familia": "3022",
@@ -839,7 +922,8 @@
    "precio_p25": 661740.0,
    "precio_mediano": 6280000.0,
    "precio_p75": 25000000.0,
-   "monto_total": 14504741118.108799
+   "monto_total": 14504741118.108799,
+   "heredada": true
   },
   {
    "familia": "3110",
@@ -849,7 +933,8 @@
    "precio_p25": 20200.0,
    "precio_mediano": 21254.0,
    "precio_p75": 28713.0,
-   "monto_total": 57081049.0
+   "monto_total": 57081049.0,
+   "heredada": true
   },
   {
    "familia": "3113",
@@ -859,7 +944,8 @@
    "precio_p25": 260293.0,
    "precio_mediano": 260293.0,
    "precio_p75": 260293.0,
-   "monto_total": 1120586.0
+   "monto_total": 1120586.0,
+   "heredada": true
   },
   {
    "familia": "3115",
@@ -869,7 +955,8 @@
    "precio_p25": 13120.0,
    "precio_mediano": 32000.0,
    "precio_p75": 54603.0,
-   "monto_total": 276910184.45
+   "monto_total": 276910184.45,
+   "heredada": true
   },
   {
    "familia": "3116",
@@ -879,7 +966,8 @@
    "precio_p25": 1311.0,
    "precio_mediano": 3000.0,
    "precio_p75": 11890.0,
-   "monto_total": 7820540345.02
+   "monto_total": 7820540345.02,
+   "heredada": true
   },
   {
    "familia": "3117",
@@ -889,7 +977,8 @@
    "precio_p25": 17000.0,
    "precio_mediano": 29990.0,
    "precio_p75": 55000.0,
-   "monto_total": 20622004.0
+   "monto_total": 20622004.0,
+   "heredada": true
   },
   {
    "familia": "3118",
@@ -899,7 +988,8 @@
    "precio_p25": 3800.0,
    "precio_mediano": 20000.0,
    "precio_p75": 126600.0,
-   "monto_total": 58627751.0
+   "monto_total": 58627751.0,
+   "heredada": true
   },
   {
    "familia": "3119",
@@ -909,7 +999,8 @@
    "precio_p25": 250.0,
    "precio_mediano": 450.0,
    "precio_p75": 900.0,
-   "monto_total": 323827265.0
+   "monto_total": 323827265.0,
+   "heredada": true
   },
   {
    "familia": "3120",
@@ -919,7 +1010,8 @@
    "precio_p25": 1020.0,
    "precio_mediano": 3994.0,
    "precio_p75": 9900.0,
-   "monto_total": 1778051181.9
+   "monto_total": 1778051181.9,
+   "heredada": true
   },
   {
    "familia": "3121",
@@ -929,7 +1021,8 @@
    "precio_p25": 2400.0,
    "precio_mediano": 5500.0,
    "precio_p75": 29500.0,
-   "monto_total": 2975200550.015
+   "monto_total": 2975200550.015,
+   "heredada": true
   },
   {
    "familia": "3123",
@@ -939,7 +1032,8 @@
    "precio_p25": 1290.0,
    "precio_mediano": 4990.0,
    "precio_p75": 21990.0,
-   "monto_total": 1860460275.912
+   "monto_total": 1860460275.912,
+   "heredada": true
   },
   {
    "familia": "3124",
@@ -949,7 +1043,8 @@
    "precio_p25": 7600.0,
    "precio_mediano": 11900.0,
    "precio_p75": 25000.0,
-   "monto_total": 5988344231.0
+   "monto_total": 5988344231.0,
+   "heredada": true
   },
   {
    "familia": "3126",
@@ -959,7 +1054,8 @@
    "precio_p25": 5515.0,
    "precio_mediano": 10916.0,
    "precio_p75": 17489.0,
-   "monto_total": 167898781.0
+   "monto_total": 167898781.0,
+   "heredada": true
   },
   {
    "familia": "3127",
@@ -969,7 +1065,8 @@
    "precio_p25": 50.0,
    "precio_mediano": 50.0,
    "precio_p75": 50.0,
-   "monto_total": 30561400.0
+   "monto_total": 30561400.0,
+   "heredada": true
   },
   {
    "familia": "3131",
@@ -979,7 +1076,8 @@
    "precio_p25": 3369.0,
    "precio_mediano": 5226.0,
    "precio_p75": 23950.0,
-   "monto_total": 48177480.0
+   "monto_total": 48177480.0,
+   "heredada": true
   },
   {
    "familia": "3133",
@@ -989,7 +1087,8 @@
    "precio_p25": 3200000.0,
    "precio_mediano": 3200000.0,
    "precio_p75": 3200000.0,
-   "monto_total": 16320000.0
+   "monto_total": 16320000.0,
+   "heredada": true
   },
   {
    "familia": "3136",
@@ -999,7 +1098,8 @@
    "precio_p25": 41230.0,
    "precio_mediano": 41230.0,
    "precio_p75": 41230.0,
-   "monto_total": 28956300.0
+   "monto_total": 28956300.0,
+   "heredada": true
   },
   {
    "familia": "3137",
@@ -1009,7 +1109,8 @@
    "precio_p25": 2004.0,
    "precio_mediano": 3000.0,
    "precio_p75": 24000.0,
-   "monto_total": 13025907.0
+   "monto_total": 13025907.0,
+   "heredada": true
   },
   {
    "familia": "3138",
@@ -1019,7 +1120,8 @@
    "precio_p25": 45600.0,
    "precio_mediano": 45600.0,
    "precio_p75": 45600.0,
-   "monto_total": 2870800.0
+   "monto_total": 2870800.0,
+   "heredada": true
   },
   {
    "familia": "3210",
@@ -1029,7 +1131,8 @@
    "precio_p25": 57017.0,
    "precio_mediano": 152930.0,
    "precio_p75": 440000.0,
-   "monto_total": 321495338.9968
+   "monto_total": 321495338.9968,
+   "heredada": true
   },
   {
    "familia": "3211",
@@ -1039,7 +1142,8 @@
    "precio_p25": 1564.0,
    "precio_mediano": 5130.0,
    "precio_p75": 11196.0,
-   "monto_total": 211051601.0
+   "monto_total": 211051601.0,
+   "heredada": true
   },
   {
    "familia": "3212",
@@ -1049,7 +1153,8 @@
    "precio_p25": 4857200.0,
    "precio_mediano": 4857200.0,
    "precio_p75": 4857200.0,
-   "monto_total": 13769141.0
+   "monto_total": 13769141.0,
+   "heredada": true
   },
   {
    "familia": "3214",
@@ -1059,7 +1164,8 @@
    "precio_p25": 4651.0,
    "precio_mediano": 13855.0,
    "precio_p75": 33600.0,
-   "monto_total": 110355582.0
+   "monto_total": 110355582.0,
+   "heredada": true
   },
   {
    "familia": "3910",
@@ -1069,7 +1175,8 @@
    "precio_p25": 5681.0,
    "precio_mediano": 15000.0,
    "precio_p75": 294117.0,
-   "monto_total": 366185025.0
+   "monto_total": 366185025.0,
+   "heredada": true
   },
   {
    "familia": "3911",
@@ -1079,7 +1186,8 @@
    "precio_p25": 21322.0,
    "precio_mediano": 500000.0,
    "precio_p75": 13120000.0,
-   "monto_total": 4215666870.0
+   "monto_total": 4215666870.0,
+   "heredada": true
   },
   {
    "familia": "3912",
@@ -1089,7 +1197,8 @@
    "precio_p25": 1200.0,
    "precio_mediano": 4000.0,
    "precio_p75": 19215.0,
-   "monto_total": 6097110128.0014
+   "monto_total": 6097110128.0014,
+   "heredada": true
   },
   {
    "familia": "4010",
@@ -1099,7 +1208,8 @@
    "precio_p25": 267772.0,
    "precio_mediano": 1190000.0,
    "precio_p75": 6400000.0,
-   "monto_total": 1355759235.176
+   "monto_total": 1355759235.176,
+   "heredada": true
   },
   {
    "familia": "4014",
@@ -1109,7 +1219,8 @@
    "precio_p25": 1000.0,
    "precio_mediano": 3455.0,
    "precio_p75": 19443.0,
-   "monto_total": 2876263140.01
+   "monto_total": 2876263140.01,
+   "heredada": true
   },
   {
    "familia": "4015",
@@ -1119,7 +1230,8 @@
    "precio_p25": 195000.0,
    "precio_mediano": 730000.0,
    "precio_p75": 6900000.0,
-   "monto_total": 1352727954.1
+   "monto_total": 1352727954.1,
+   "heredada": true
   },
   {
    "familia": "4016",
@@ -1129,7 +1241,8 @@
    "precio_p25": 14099.0,
    "precio_mediano": 35000.0,
    "precio_p75": 101900.0,
-   "monto_total": 7264966452.0
+   "monto_total": 7264966452.0,
+   "heredada": true
   },
   {
    "familia": "4110",
@@ -1139,7 +1252,8 @@
    "precio_p25": 352.0,
    "precio_mediano": 11990.0,
    "precio_p75": 118789.0,
-   "monto_total": 47906031172.0
+   "monto_total": 47906031172.0,
+   "heredada": true
   },
   {
    "familia": "4111",
@@ -1149,7 +1263,8 @@
    "precio_p25": 14000.0,
    "precio_mediano": 85600.0,
    "precio_p75": 261800.0,
-   "monto_total": 72080188260.723
+   "monto_total": 72080188260.723,
+   "heredada": true
   },
   {
    "familia": "4112",
@@ -1159,7 +1274,8 @@
    "precio_p25": 747.0,
    "precio_mediano": 5000.0,
    "precio_p75": 26300.0,
-   "monto_total": 1256074707.41
+   "monto_total": 1256074707.41,
+   "heredada": true
   },
   {
    "familia": "4212",
@@ -1169,7 +1285,8 @@
    "precio_p25": 900000.0,
    "precio_mediano": 5602002.0,
    "precio_p75": 15139636.0,
-   "monto_total": 309828245.0
+   "monto_total": 309828245.0,
+   "heredada": true
   },
   {
    "familia": "4213",
@@ -1179,7 +1296,8 @@
    "precio_p25": 690.0,
    "precio_mediano": 2800.0,
    "precio_p75": 6800.0,
-   "monto_total": 4033532764.12
+   "monto_total": 4033532764.12,
+   "heredada": true
   },
   {
    "familia": "4214",
@@ -1189,7 +1307,8 @@
    "precio_p25": 563.0,
    "precio_mediano": 6500.0,
    "precio_p75": 32000.0,
-   "monto_total": 20072294546.59
+   "monto_total": 20072294546.59,
+   "heredada": true
   },
   {
    "familia": "4215",
@@ -1199,7 +1318,8 @@
    "precio_p25": 2630.0,
    "precio_mediano": 7500.0,
    "precio_p75": 24490.0,
-   "monto_total": 10142192869.81
+   "monto_total": 10142192869.81,
+   "heredada": true
   },
   {
    "familia": "4216",
@@ -1209,7 +1329,8 @@
    "precio_p25": 4058.0,
    "precio_mediano": 13079.0,
    "precio_p75": 62800.0,
-   "monto_total": 62353538133.0
+   "monto_total": 62353538133.0,
+   "heredada": true
   },
   {
    "familia": "4217",
@@ -1219,7 +1340,8 @@
    "precio_p25": 691.0,
    "precio_mediano": 5850.0,
    "precio_p75": 19500.0,
-   "monto_total": 3338195618.5
+   "monto_total": 3338195618.5,
+   "heredada": true
   },
   {
    "familia": "4218",
@@ -1229,7 +1351,8 @@
    "precio_p25": 7306.0,
    "precio_mediano": 45000.0,
    "precio_p75": 537500.0,
-   "monto_total": 4682046460.4772
+   "monto_total": 4682046460.4772,
+   "heredada": true
   },
   {
    "familia": "4219",
@@ -1239,7 +1362,8 @@
    "precio_p25": 120049.0,
    "precio_mediano": 374220.0,
    "precio_p75": 2790000.0,
-   "monto_total": 11963583120.0
+   "monto_total": 11963583120.0,
+   "heredada": true
   },
   {
    "familia": "4220",
@@ -1249,7 +1373,8 @@
    "precio_p25": 20588.0,
    "precio_mediano": 180000.0,
    "precio_p75": 915960.0,
-   "monto_total": 15139343630.2
+   "monto_total": 15139343630.2,
+   "heredada": true
   },
   {
    "familia": "4221",
@@ -1259,7 +1384,8 @@
    "precio_p25": 30000.0,
    "precio_mediano": 210500.0,
    "precio_p75": 1000000.0,
-   "monto_total": 8141613451.4
+   "monto_total": 8141613451.4,
+   "heredada": true
   },
   {
    "familia": "4222",
@@ -1269,7 +1395,8 @@
    "precio_p25": 3900.0,
    "precio_mediano": 26000.0,
    "precio_p75": 84990.0,
-   "monto_total": 30108620787.61
+   "monto_total": 30108620787.61,
+   "heredada": true
   },
   {
    "familia": "4223",
@@ -1279,7 +1406,8 @@
    "precio_p25": 1900.0,
    "precio_mediano": 6300.0,
    "precio_p75": 16000.0,
-   "monto_total": 4379093647.0
+   "monto_total": 4379093647.0,
+   "heredada": true
   },
   {
    "familia": "4224",
@@ -1289,7 +1417,8 @@
    "precio_p25": 36000.0,
    "precio_mediano": 76857.0,
    "precio_p75": 650000.0,
-   "monto_total": 13767257578.8567
+   "monto_total": 13767257578.8567,
+   "heredada": true
   },
   {
    "familia": "4225",
@@ -1299,7 +1428,8 @@
    "precio_p25": 7199.0,
    "precio_mediano": 16800.0,
    "precio_p75": 39101.0,
-   "monto_total": 736487151.0
+   "monto_total": 736487151.0,
+   "heredada": true
   },
   {
    "familia": "4226",
@@ -1309,7 +1439,8 @@
    "precio_p25": 4900.0,
    "precio_mediano": 78695.0,
    "precio_p75": 490900.0,
-   "monto_total": 1427857268.31
+   "monto_total": 1427857268.31,
+   "heredada": true
   },
   {
    "familia": "4227",
@@ -1319,7 +1450,8 @@
    "precio_p25": 990.0,
    "precio_mediano": 10000.0,
    "precio_p75": 50000.0,
-   "monto_total": 9894299436.408
+   "monto_total": 9894299436.408,
+   "heredada": true
   },
   {
    "familia": "4228",
@@ -1329,7 +1461,8 @@
    "precio_p25": 4162.0,
    "precio_mediano": 12181.0,
    "precio_p75": 42000.0,
-   "monto_total": 1656453972.5
+   "monto_total": 1656453972.5,
+   "heredada": true
   },
   {
    "familia": "4229",
@@ -1339,7 +1472,8 @@
    "precio_p25": 2512.0,
    "precio_mediano": 24716.0,
    "precio_p75": 189000.0,
-   "monto_total": 51391595153.6146
+   "monto_total": 51391595153.6146,
+   "heredada": true
   },
   {
    "familia": "4230",
@@ -1349,7 +1483,8 @@
    "precio_p25": 278947.0,
    "precio_mediano": 1655000.0,
    "precio_p75": 9812975.0,
-   "monto_total": 188701120.0
+   "monto_total": 188701120.0,
+   "heredada": true
   },
   {
    "familia": "4231",
@@ -1359,7 +1494,8 @@
    "precio_p25": 1130.0,
    "precio_mediano": 4636.0,
    "precio_p75": 14700.0,
-   "monto_total": 13475080819.12
+   "monto_total": 13475080819.12,
+   "heredada": true
   },
   {
    "familia": "4319",
@@ -1369,7 +1505,8 @@
    "precio_p25": 80712.0,
    "precio_mediano": 250000.0,
    "precio_p75": 14600000.0,
-   "monto_total": 460095731.471
+   "monto_total": 460095731.471,
+   "heredada": true
   },
   {
    "familia": "4320",
@@ -1379,7 +1516,8 @@
    "precio_p25": 27600.0,
    "precio_mediano": 90745.0,
    "precio_p75": 380000.0,
-   "monto_total": 2527725539.9936
+   "monto_total": 2527725539.9936,
+   "heredada": true
   },
   {
    "familia": "4321",
@@ -1389,7 +1527,8 @@
    "precio_p25": 153000.0,
    "precio_mediano": 628300.0,
    "precio_p75": 2773109.0,
-   "monto_total": 12012593078.1473
+   "monto_total": 12012593078.1473,
+   "heredada": true
   },
   {
    "familia": "4322",
@@ -1399,7 +1538,8 @@
    "precio_p25": 228068.0,
    "precio_mediano": 1428571.0,
    "precio_p75": 7703018.0,
-   "monto_total": 2458684343.64
+   "monto_total": 2458684343.64,
+   "heredada": true
   },
   {
    "familia": "4323",
@@ -1409,7 +1549,8 @@
    "precio_p25": 170650.0,
    "precio_mediano": 1400560.0,
    "precio_p75": 10967660.0,
-   "monto_total": 10671669650.98905
+   "monto_total": 10671669650.98905,
+   "heredada": true
   },
   {
    "familia": "4410",
@@ -1419,7 +1560,8 @@
    "precio_p25": 10593.0,
    "precio_mediano": 32500.0,
    "precio_p75": 117000.0,
-   "monto_total": 6655194804.016
+   "monto_total": 6655194804.016,
+   "heredada": true
   },
   {
    "familia": "4411",
@@ -1429,7 +1571,8 @@
    "precio_p25": 4141.0,
    "precio_mediano": 16000.0,
    "precio_p75": 94034.0,
-   "monto_total": 433800563.32
+   "monto_total": 433800563.32,
+   "heredada": true
   },
   {
    "familia": "4412",
@@ -1439,7 +1582,8 @@
    "precio_p25": 490.0,
    "precio_mediano": 2000.0,
    "precio_p75": 17807.0,
-   "monto_total": 2366170307.8332
+   "monto_total": 2366170307.8332,
+   "heredada": true
   },
   {
    "familia": "4510",
@@ -1449,7 +1593,8 @@
    "precio_p25": 207684.0,
    "precio_mediano": 646848.0,
    "precio_p75": 3671800.0,
-   "monto_total": 359497728.0
+   "monto_total": 359497728.0,
+   "heredada": true
   },
   {
    "familia": "4511",
@@ -1459,7 +1604,8 @@
    "precio_p25": 194000.0,
    "precio_mediano": 597000.0,
    "precio_p75": 2351798.0,
-   "monto_total": 797755589.0
+   "monto_total": 797755589.0,
+   "heredada": true
   },
   {
    "familia": "4512",
@@ -1469,7 +1615,8 @@
    "precio_p25": 85445.0,
    "precio_mediano": 810000.0,
    "precio_p75": 2100840.0,
-   "monto_total": 581074506.0
+   "monto_total": 581074506.0,
+   "heredada": true
   },
   {
    "familia": "4513",
@@ -1479,7 +1626,8 @@
    "precio_p25": 381.0,
    "precio_mediano": 446.0,
    "precio_p75": 446.0,
-   "monto_total": 64941070.0
+   "monto_total": 64941070.0,
+   "heredada": true
   },
   {
    "familia": "4514",
@@ -1489,7 +1637,8 @@
    "precio_p25": 5040.0,
    "precio_mediano": 5870.0,
    "precio_p75": 5900.0,
-   "monto_total": 11215459.31
+   "monto_total": 11215459.31,
+   "heredada": true
   },
   {
    "familia": "4610",
@@ -1499,7 +1648,8 @@
    "precio_p25": 305.0,
    "precio_mediano": 420.0,
    "precio_p75": 4194.0,
-   "monto_total": 35727164.0
+   "monto_total": 35727164.0,
+   "heredada": true
   },
   {
    "familia": "4611",
@@ -1509,7 +1659,8 @@
    "precio_p25": 135.0,
    "precio_mediano": 135.0,
    "precio_p75": 135.0,
-   "monto_total": 823041.0
+   "monto_total": 823041.0,
+   "heredada": true
   },
   {
    "familia": "4612",
@@ -1519,7 +1670,8 @@
    "precio_p25": 268907.0,
    "precio_mediano": 268907.0,
    "precio_p75": 268907.0,
-   "monto_total": 13730350.0
+   "monto_total": 13730350.0,
+   "heredada": true
   },
   {
    "familia": "4615",
@@ -1529,7 +1681,8 @@
    "precio_p25": 16016.0,
    "precio_mediano": 76460.0,
    "precio_p75": 1651837.0,
-   "monto_total": 1018827434.0
+   "monto_total": 1018827434.0,
+   "heredada": true
   },
   {
    "familia": "4616",
@@ -1539,7 +1692,8 @@
    "precio_p25": 21549.0,
    "precio_mediano": 33000.0,
    "precio_p75": 450000.0,
-   "monto_total": 2835333381.0
+   "monto_total": 2835333381.0,
+   "heredada": true
   },
   {
    "familia": "4617",
@@ -1549,7 +1703,8 @@
    "precio_p25": 12000.0,
    "precio_mediano": 62000.0,
    "precio_p75": 1702400.0,
-   "monto_total": 4708206220.131
+   "monto_total": 4708206220.131,
+   "heredada": true
   },
   {
    "familia": "4618",
@@ -1559,7 +1714,8 @@
    "precio_p25": 5000.0,
    "precio_mediano": 16700.0,
    "precio_p75": 46700.0,
-   "monto_total": 10317522515.88
+   "monto_total": 10317522515.88,
+   "heredada": true
   },
   {
    "familia": "4619",
@@ -1569,7 +1725,8 @@
    "precio_p25": 17900.0,
    "precio_mediano": 424816.0,
    "precio_p75": 2495000.0,
-   "monto_total": 358454196.0
+   "monto_total": 358454196.0,
+   "heredada": true
   },
   {
    "familia": "4710",
@@ -1579,7 +1736,8 @@
    "precio_p25": 62000.0,
    "precio_mediano": 170000.0,
    "precio_p75": 2205882.0,
-   "monto_total": 339987177.0
+   "monto_total": 339987177.0,
+   "heredada": true
   },
   {
    "familia": "4711",
@@ -1589,7 +1747,8 @@
    "precio_p25": 620000.0,
    "precio_mediano": 3400000.0,
    "precio_p75": 6734014.0,
-   "monto_total": 200857662.0
+   "monto_total": 200857662.0,
+   "heredada": true
   },
   {
    "familia": "4712",
@@ -1599,7 +1758,8 @@
    "precio_p25": 1727.0,
    "precio_mediano": 5980.0,
    "precio_p75": 78500.0,
-   "monto_total": 2603349720.0
+   "monto_total": 2603349720.0,
+   "heredada": true
   },
   {
    "familia": "4713",
@@ -1609,7 +1769,8 @@
    "precio_p25": 1064.0,
    "precio_mediano": 3000.0,
    "precio_p75": 17570.0,
-   "monto_total": 4636882378.9002
+   "monto_total": 4636882378.9002,
+   "heredada": true
   },
   {
    "familia": "4810",
@@ -1619,7 +1780,8 @@
    "precio_p25": 8762.0,
    "precio_mediano": 90000.0,
    "precio_p75": 855000.0,
-   "monto_total": 4592341107.64
+   "monto_total": 4592341107.64,
+   "heredada": true
   },
   {
    "familia": "4811",
@@ -1629,7 +1791,8 @@
    "precio_p25": 60000.0,
    "precio_mediano": 60000.0,
    "precio_p75": 60000.0,
-   "monto_total": 60000.0
+   "monto_total": 60000.0,
+   "heredada": true
   },
   {
    "familia": "4812",
@@ -1639,7 +1802,8 @@
    "precio_p25": 196000.0,
    "precio_mediano": 196000.0,
    "precio_p75": 196000.0,
-   "monto_total": 7472400.0
+   "monto_total": 7472400.0,
+   "heredada": true
   },
   {
    "familia": "4910",
@@ -1649,7 +1813,8 @@
    "precio_p25": 9900.0,
    "precio_mediano": 39000.0,
    "precio_p75": 140500.0,
-   "monto_total": 1728560924.23
+   "monto_total": 1728560924.23,
+   "heredada": true
   },
   {
    "familia": "4912",
@@ -1659,7 +1824,8 @@
    "precio_p25": 33000.0,
    "precio_mediano": 147053.0,
    "precio_p75": 350970.0,
-   "monto_total": 106947087.0
+   "monto_total": 106947087.0,
+   "heredada": true
   },
   {
    "familia": "4913",
@@ -1669,7 +1835,8 @@
    "precio_p25": 30000.0,
    "precio_mediano": 507395.0,
    "precio_p75": 507395.0,
-   "monto_total": 17130752.0
+   "monto_total": 17130752.0,
+   "heredada": true
   },
   {
    "familia": "4914",
@@ -1679,7 +1846,8 @@
    "precio_p25": 27990.0,
    "precio_mediano": 35294.0,
    "precio_p75": 72990.0,
-   "monto_total": 59682351.0
+   "monto_total": 59682351.0,
+   "heredada": true
   },
   {
    "familia": "4915",
@@ -1689,7 +1857,8 @@
    "precio_p25": 38000.0,
    "precio_mediano": 109000.0,
    "precio_p75": 1670272.0,
-   "monto_total": 125967197.0
+   "monto_total": 125967197.0,
+   "heredada": true
   },
   {
    "familia": "4916",
@@ -1699,7 +1868,8 @@
    "precio_p25": 10914.0,
    "precio_mediano": 15350.0,
    "precio_p75": 43200.0,
-   "monto_total": 577907447.0
+   "monto_total": 577907447.0,
+   "heredada": true
   },
   {
    "familia": "4917",
@@ -1709,7 +1879,8 @@
    "precio_p25": 11500.0,
    "precio_mediano": 47807.0,
    "precio_p75": 1249197.0,
-   "monto_total": 112604404.0
+   "monto_total": 112604404.0,
+   "heredada": true
   },
   {
    "familia": "4918",
@@ -1719,7 +1890,8 @@
    "precio_p25": 10949.0,
    "precio_mediano": 176471.0,
    "precio_p75": 272934.0,
-   "monto_total": 130362791.0
+   "monto_total": 130362791.0,
+   "heredada": true
   },
   {
    "familia": "4920",
@@ -1729,7 +1901,8 @@
    "precio_p25": 8000.0,
    "precio_mediano": 22063.0,
    "precio_p75": 155000.0,
-   "monto_total": 1113583684.0
+   "monto_total": 1113583684.0,
+   "heredada": true
   },
   {
    "familia": "4921",
@@ -1739,7 +1912,8 @@
    "precio_p25": 11900.0,
    "precio_mediano": 36345.0,
    "precio_p75": 215000.0,
-   "monto_total": 743349350.56
+   "monto_total": 743349350.56,
+   "heredada": true
   },
   {
    "familia": "4922",
@@ -1749,7 +1923,8 @@
    "precio_p25": 9589.0,
    "precio_mediano": 24806.0,
    "precio_p75": 420168.0,
-   "monto_total": 725837184.22
+   "monto_total": 725837184.22,
+   "heredada": true
   },
   {
    "familia": "4924",
@@ -1759,7 +1934,8 @@
    "precio_p25": 9353.0,
    "precio_mediano": 36800.0,
    "precio_p75": 93403.0,
-   "monto_total": 219519887.0
+   "monto_total": 219519887.0,
+   "heredada": true
   },
   {
    "familia": "5010",
@@ -1769,7 +1945,8 @@
    "precio_p25": 1390.0,
    "precio_mediano": 2004.0,
    "precio_p75": 5000.0,
-   "monto_total": 5053663354.36
+   "monto_total": 5053663354.36,
+   "heredada": true
   },
   {
    "familia": "5011",
@@ -1779,7 +1956,8 @@
    "precio_p25": 4946.0,
    "precio_mediano": 7812.0,
    "precio_p75": 15500.0,
-   "monto_total": 2578785588.0
+   "monto_total": 2578785588.0,
+   "heredada": true
   },
   {
    "familia": "5012",
@@ -1789,7 +1967,8 @@
    "precio_p25": 2017.0,
    "precio_mediano": 3235.0,
    "precio_p75": 8000.0,
-   "monto_total": 168043372.0
+   "monto_total": 168043372.0,
+   "heredada": true
   },
   {
    "familia": "5013",
@@ -1799,7 +1978,8 @@
    "precio_p25": 2620.0,
    "precio_mediano": 4100.0,
    "precio_p75": 7940.0,
-   "monto_total": 2369347768.36
+   "monto_total": 2369347768.36,
+   "heredada": true
   },
   {
    "familia": "5015",
@@ -1809,7 +1989,8 @@
    "precio_p25": 3046.0,
    "precio_mediano": 3311.0,
    "precio_p75": 3800.0,
-   "monto_total": 267161403.68
+   "monto_total": 267161403.68,
+   "heredada": true
   },
   {
    "familia": "5016",
@@ -1819,7 +2000,8 @@
    "precio_p25": 545.0,
    "precio_mediano": 1285.0,
    "precio_p75": 3297.0,
-   "monto_total": 678084912.46
+   "monto_total": 678084912.46,
+   "heredada": true
   },
   {
    "familia": "5017",
@@ -1829,7 +2011,8 @@
    "precio_p25": 700.0,
    "precio_mediano": 1790.0,
    "precio_p75": 3573.0,
-   "monto_total": 1870832600.44
+   "monto_total": 1870832600.44,
+   "heredada": true
   },
   {
    "familia": "5018",
@@ -1839,7 +2022,8 @@
    "precio_p25": 1590.0,
    "precio_mediano": 2100.0,
    "precio_p75": 8480.0,
-   "monto_total": 1585500228.6
+   "monto_total": 1585500228.6,
+   "heredada": true
   },
   {
    "familia": "5019",
@@ -1849,7 +2033,8 @@
    "precio_p25": 847.0,
    "precio_mediano": 1950.0,
    "precio_p75": 9150.0,
-   "monto_total": 1066730663.1856
+   "monto_total": 1066730663.1856,
+   "heredada": true
   },
   {
    "familia": "5020",
@@ -1859,7 +2044,8 @@
    "precio_p25": 1650.0,
    "precio_mediano": 4850.0,
    "precio_p75": 13345.0,
-   "monto_total": 1073368097.5056
+   "monto_total": 1073368097.5056,
+   "heredada": true
   },
   {
    "familia": "5021",
@@ -1869,7 +2055,8 @@
    "precio_p25": 370.0,
    "precio_mediano": 370.0,
    "precio_p75": 370.0,
-   "monto_total": 1579530.0
+   "monto_total": 1579530.0,
+   "heredada": true
   },
   {
    "familia": "5022",
@@ -1879,7 +2066,8 @@
    "precio_p25": 1349.0,
    "precio_mediano": 2200.0,
    "precio_p75": 4100.0,
-   "monto_total": 1474863808.76
+   "monto_total": 1474863808.76,
+   "heredada": true
   },
   {
    "familia": "5110",
@@ -1889,7 +2077,8 @@
    "precio_p25": 404.5,
    "precio_mediano": 1723.0,
    "precio_p75": 6295.0,
-   "monto_total": 6045798883.5205
+   "monto_total": 6045798883.5205,
+   "heredada": true
   },
   {
    "familia": "5111",
@@ -1899,7 +2088,8 @@
    "precio_p25": 6567.0,
    "precio_mediano": 23200.0,
    "precio_p75": 133720.0,
-   "monto_total": 5276604992.0
+   "monto_total": 5276604992.0,
+   "heredada": true
   },
   {
    "familia": "5112",
@@ -1909,7 +2099,8 @@
    "precio_p25": 25.0,
    "precio_mediano": 150.4,
    "precio_p75": 3518.0,
-   "monto_total": 10329171755.1632
+   "monto_total": 10329171755.1632,
+   "heredada": true
   },
   {
    "familia": "5113",
@@ -1919,7 +2110,8 @@
    "precio_p25": 410.0,
    "precio_mediano": 2500.0,
    "precio_p75": 17500.0,
-   "monto_total": 4211420441.53
+   "monto_total": 4211420441.53,
+   "heredada": true
   },
   {
    "familia": "5114",
@@ -1929,7 +2121,8 @@
    "precio_p25": 57.0,
    "precio_mediano": 277.0,
    "precio_p75": 2280.0,
-   "monto_total": 16962898528.2746
+   "monto_total": 16962898528.2746,
+   "heredada": true
   },
   {
    "familia": "5115",
@@ -1939,7 +2132,8 @@
    "precio_p25": 146.0,
    "precio_mediano": 903.0,
    "precio_p75": 5999.0,
-   "monto_total": 1621797185.02
+   "monto_total": 1621797185.02,
+   "heredada": true
   },
   {
    "familia": "5116",
@@ -1949,7 +2143,8 @@
    "precio_p25": 147.0,
    "precio_mediano": 1620.0,
    "precio_p75": 6630.0,
-   "monto_total": 1749299785.0305
+   "monto_total": 1749299785.0305,
+   "heredada": true
   },
   {
    "familia": "5117",
@@ -1959,7 +2154,8 @@
    "precio_p25": 260.0,
    "precio_mediano": 1013.0,
    "precio_p75": 2993.0,
-   "monto_total": 2358061892.7836
+   "monto_total": 2358061892.7836,
+   "heredada": true
   },
   {
    "familia": "5118",
@@ -1969,7 +2165,8 @@
    "precio_p25": 239.0,
    "precio_mediano": 1950.0,
    "precio_p75": 12000.0,
-   "monto_total": 32124530566.88
+   "monto_total": 32124530566.88,
+   "heredada": true
   },
   {
    "familia": "5119",
@@ -1979,7 +2176,8 @@
    "precio_p25": 126.8,
    "precio_mediano": 870.0,
    "precio_p75": 6188.0,
-   "monto_total": 10497221268.55
+   "monto_total": 10497221268.55,
+   "heredada": true
   },
   {
    "familia": "5120",
@@ -1989,7 +2187,8 @@
    "precio_p25": 2410.0,
    "precio_mediano": 11360.0,
    "precio_p75": 39000.0,
-   "monto_total": 2680356681.3636
+   "monto_total": 2680356681.3636,
+   "heredada": true
   },
   {
    "familia": "5121",
@@ -1999,7 +2198,8 @@
    "precio_p25": 97.7,
    "precio_mediano": 1850.0,
    "precio_p75": 10769.0,
-   "monto_total": 1979542985.3439999
+   "monto_total": 1979542985.3439999,
+   "heredada": true
   },
   {
    "familia": "5124",
@@ -2009,7 +2209,8 @@
    "precio_p25": 1126.8,
    "precio_mediano": 3080.0,
    "precio_p75": 7595.0,
-   "monto_total": 832001366.1636
+   "monto_total": 832001366.1636,
+   "heredada": true
   },
   {
    "familia": "5212",
@@ -2019,7 +2220,8 @@
    "precio_p25": 6500.0,
    "precio_mediano": 12900.0,
    "precio_p75": 24900.0,
-   "monto_total": 897741521.0
+   "monto_total": 897741521.0,
+   "heredada": true
   },
   {
    "familia": "5213",
@@ -2029,7 +2231,8 @@
    "precio_p25": 177800.0,
    "precio_mediano": 659880.0,
    "precio_p75": 2834550.0,
-   "monto_total": 96753073.0
+   "monto_total": 96753073.0,
+   "heredada": true
   },
   {
    "familia": "5214",
@@ -2039,7 +2242,8 @@
    "precio_p25": 37815.0,
    "precio_mediano": 159811.0,
    "precio_p75": 449990.0,
-   "monto_total": 894752377.0
+   "monto_total": 894752377.0,
+   "heredada": true
   },
   {
    "familia": "5215",
@@ -2049,7 +2253,8 @@
    "precio_p25": 67.0,
    "precio_mediano": 4200.0,
    "precio_p75": 18300.0,
-   "monto_total": 841724780.71
+   "monto_total": 841724780.71,
+   "heredada": true
   },
   {
    "familia": "5216",
@@ -2059,7 +2264,8 @@
    "precio_p25": 54550.0,
    "precio_mediano": 231850.0,
    "precio_p75": 1227990.0,
-   "monto_total": 1682843027.3
+   "monto_total": 1682843027.3,
+   "heredada": true
   },
   {
    "familia": "5310",
@@ -2069,7 +2275,8 @@
    "precio_p25": 3500.0,
    "precio_mediano": 10500.0,
    "precio_p75": 28800.0,
-   "monto_total": 12963384282.95064
+   "monto_total": 12963384282.95064,
+   "heredada": true
   },
   {
    "familia": "5311",
@@ -2079,7 +2286,8 @@
    "precio_p25": 33361.0,
    "precio_mediano": 45900.0,
    "precio_p75": 62990.0,
-   "monto_total": 3378274283.426048
+   "monto_total": 3378274283.426048,
+   "heredada": true
   },
   {
    "familia": "5312",
@@ -2089,7 +2297,8 @@
    "precio_p25": 9500.0,
    "precio_mediano": 23140.0,
    "precio_p75": 59000.0,
-   "monto_total": 284969481.32
+   "monto_total": 284969481.32,
+   "heredada": true
   },
   {
    "familia": "5313",
@@ -2099,7 +2308,8 @@
    "precio_p25": 1170.0,
    "precio_mediano": 4687.0,
    "precio_p75": 9194.0,
-   "monto_total": 1806913002.3
+   "monto_total": 1806913002.3,
+   "heredada": true
   },
   {
    "familia": "5314",
@@ -2109,7 +2319,8 @@
    "precio_p25": 577.0,
    "precio_mediano": 1900.0,
    "precio_p75": 3650.0,
-   "monto_total": 157703416.0
+   "monto_total": 157703416.0,
+   "heredada": true
   },
   {
    "familia": "5410",
@@ -2119,7 +2330,8 @@
    "precio_p25": 286.18,
    "precio_mediano": 286.18,
    "precio_p75": 286.18,
-   "monto_total": 13154795.32
+   "monto_total": 13154795.32,
+   "heredada": true
   },
   {
    "familia": "5411",
@@ -2129,7 +2341,8 @@
    "precio_p25": 3500.0,
    "precio_mediano": 3948.0,
    "precio_p75": 3948.0,
-   "monto_total": 12020140.0
+   "monto_total": 12020140.0,
+   "heredada": true
   },
   {
    "familia": "5510",
@@ -2139,7 +2352,8 @@
    "precio_p25": 9990.0,
    "precio_mediano": 13846.0,
    "precio_p75": 19647.0,
-   "monto_total": 12814957855.0
+   "monto_total": 12814957855.0,
+   "heredada": true
   },
   {
    "familia": "5511",
@@ -2149,7 +2363,8 @@
    "precio_p25": 27900.0,
    "precio_mediano": 51900.0,
    "precio_p75": 59900.0,
-   "monto_total": 106918578.0
+   "monto_total": 106918578.0,
+   "heredada": true
   },
   {
    "familia": "5512",
@@ -2159,7 +2374,8 @@
    "precio_p25": 16354.0,
    "precio_mediano": 51880.0,
    "precio_p75": 78000.0,
-   "monto_total": 5026166932.304
+   "monto_total": 5026166932.304,
+   "heredada": true
   },
   {
    "familia": "5610",
@@ -2169,7 +2385,8 @@
    "precio_p25": 84118.0,
    "precio_mediano": 218499.0,
    "precio_p75": 998700.0,
-   "monto_total": 359700676250.0
+   "monto_total": 359700676250.0,
+   "heredada": true
   },
   {
    "familia": "5611",
@@ -2179,7 +2396,8 @@
    "precio_p25": 80000.0,
    "precio_mediano": 141090.0,
    "precio_p75": 333393.0,
-   "monto_total": 896402484.31
+   "monto_total": 896402484.31,
+   "heredada": true
   },
   {
    "familia": "5612",
@@ -2189,7 +2407,8 @@
    "precio_p25": 29000.0,
    "precio_mediano": 109244.0,
    "precio_p75": 1795700.0,
-   "monto_total": 953527303.5525401
+   "monto_total": 953527303.5525401,
+   "heredada": true
   },
   {
    "familia": "6010",
@@ -2199,7 +2418,8 @@
    "precio_p25": 12605.0,
    "precio_mediano": 19563.0,
    "precio_p75": 235294.0,
-   "monto_total": 3201221532.5715
+   "monto_total": 3201221532.5715,
+   "heredada": true
   },
   {
    "familia": "6012",
@@ -2209,7 +2429,8 @@
    "precio_p25": 1985.0,
    "precio_mediano": 17647.0,
    "precio_p75": 69990.0,
-   "monto_total": 801919482.0
+   "monto_total": 801919482.0,
+   "heredada": true
   },
   {
    "familia": "6013",
@@ -2219,7 +2440,8 @@
    "precio_p25": 12900.0,
    "precio_mediano": 31070.0,
    "precio_p75": 839620.0,
-   "monto_total": 440027754.1371
+   "monto_total": 440027754.1371,
+   "heredada": true
   },
   {
    "familia": "6014",
@@ -2229,7 +2451,8 @@
    "precio_p25": 17807.0,
    "precio_mediano": 51221.0,
    "precio_p75": 251261.0,
-   "monto_total": 849354874.5124
+   "monto_total": 849354874.5124,
+   "heredada": true
   },
   {
    "familia": "7010",
@@ -2239,7 +2462,8 @@
    "precio_p25": 72000.0,
    "precio_mediano": 18487395.0,
    "precio_p75": 49990565.0,
-   "monto_total": 166377960.0
+   "monto_total": 166377960.0,
+   "heredada": true
   },
   {
    "familia": "7011",
@@ -2249,7 +2473,8 @@
    "precio_p25": 2887003.0,
    "precio_mediano": 8040000.0,
    "precio_p75": 25920000.0,
-   "monto_total": 5961561225.0
+   "monto_total": 5961561225.0,
+   "heredada": true
   },
   {
    "familia": "7012",
@@ -2259,7 +2484,8 @@
    "precio_p25": 39500.0,
    "precio_mediano": 63000.0,
    "precio_p75": 12014500.0,
-   "monto_total": 583834121.0
+   "monto_total": 583834121.0,
+   "heredada": true
   },
   {
    "familia": "7013",
@@ -2269,7 +2495,8 @@
    "precio_p25": 150000.0,
    "precio_mediano": 274452.0,
    "precio_p75": 800000.0,
-   "monto_total": 578393279.0
+   "monto_total": 578393279.0,
+   "heredada": true
   },
   {
    "familia": "7014",
@@ -2279,7 +2506,8 @@
    "precio_p25": 30000.0,
    "precio_mediano": 300000.0,
    "precio_p75": 2023000.0,
-   "monto_total": 1081538907.0
+   "monto_total": 1081538907.0,
+   "heredada": true
   },
   {
    "familia": "7015",
@@ -2289,7 +2517,8 @@
    "precio_p25": 321300.0,
    "precio_mediano": 11940000.0,
    "precio_p75": 36134454.0,
-   "monto_total": 6872196676.142
+   "monto_total": 6872196676.142,
+   "heredada": true
   },
   {
    "familia": "7016",
@@ -2299,7 +2528,8 @@
    "precio_p25": 39000000.0,
    "precio_mediano": 39000000.0,
    "precio_p75": 39000000.0,
-   "monto_total": 39000000.0
+   "monto_total": 39000000.0,
+   "heredada": true
   },
   {
    "familia": "7017",
@@ -2309,7 +2539,8 @@
    "precio_p25": 3280215.0,
    "precio_mediano": 31400000.0,
    "precio_p75": 81436841.0,
-   "monto_total": 2732293768.3344
+   "monto_total": 2732293768.3344,
+   "heredada": true
   },
   {
    "familia": "7110",
@@ -2319,7 +2550,8 @@
    "precio_p25": 18000.0,
    "precio_mediano": 105000.0,
    "precio_p75": 2500000.0,
-   "monto_total": 411902823.0
+   "monto_total": 411902823.0,
+   "heredada": true
   },
   {
    "familia": "7111",
@@ -2329,7 +2561,8 @@
    "precio_p25": 4700000.0,
    "precio_mediano": 9598806.0,
    "precio_p75": 9598806.0,
-   "monto_total": 24038806.0
+   "monto_total": 24038806.0,
+   "heredada": true
   },
   {
    "familia": "7112",
@@ -2339,7 +2572,8 @@
    "precio_p25": 285000.0,
    "precio_mediano": 1500000.0,
    "precio_p75": 5400000.0,
-   "monto_total": 192165708.0
+   "monto_total": 192165708.0,
+   "heredada": true
   },
   {
    "familia": "7115",
@@ -2349,7 +2583,8 @@
    "precio_p25": 892500.0,
    "precio_mediano": 16500000.0,
    "precio_p75": 20000000.0,
-   "monto_total": 61153640.0
+   "monto_total": 61153640.0,
+   "heredada": true
   },
   {
    "familia": "7116",
@@ -2359,7 +2594,8 @@
    "precio_p25": 9945000.0,
    "precio_mediano": 9945000.0,
    "precio_p75": 9945000.0,
-   "monto_total": 328933750.0
+   "monto_total": 328933750.0,
+   "heredada": true
   },
   {
    "familia": "7210",
@@ -2369,7 +2605,8 @@
    "precio_p25": 875000.0,
    "precio_mediano": 5250000.0,
    "precio_p75": 15542641.0,
-   "monto_total": 302782411992098.25
+   "monto_total": 302782411992098.25,
+   "heredada": true
   },
   {
    "familia": "7213",
@@ -2379,7 +2616,8 @@
    "precio_p25": 5410684.0,
    "precio_mediano": 18739500.0,
    "precio_p75": 69336448.0,
-   "monto_total": 47395146587.731
+   "monto_total": 47395146587.731,
+   "heredada": true
   },
   {
    "familia": "7310",
@@ -2389,7 +2627,8 @@
    "precio_p25": 675.0,
    "precio_mediano": 4800.0,
    "precio_p75": 30199.0,
-   "monto_total": 4830707872.42
+   "monto_total": 4830707872.42,
+   "heredada": true
   },
   {
    "familia": "7311",
@@ -2399,7 +2638,8 @@
    "precio_p25": 41000.0,
    "precio_mediano": 41000.0,
    "precio_p75": 41000.0,
-   "monto_total": 20372687.0
+   "monto_total": 20372687.0,
+   "heredada": true
   },
   {
    "familia": "7312",
@@ -2409,7 +2649,8 @@
    "precio_p25": 5000000.0,
    "precio_mediano": 10000000.0,
    "precio_p75": 10990000.0,
-   "monto_total": 66163648.0
+   "monto_total": 66163648.0,
+   "heredada": true
   },
   {
    "familia": "7313",
@@ -2419,7 +2660,8 @@
    "precio_p25": 1952.0,
    "precio_mediano": 6069000.0,
    "precio_p75": 56751000.0,
-   "monto_total": 622120948.0
+   "monto_total": 622120948.0,
+   "heredada": true
   },
   {
    "familia": "7314",
@@ -2429,7 +2671,8 @@
    "precio_p25": 20000.0,
    "precio_mediano": 24000.0,
    "precio_p75": 77000.0,
-   "monto_total": 525077050.0
+   "monto_total": 525077050.0,
+   "heredada": true
   },
   {
    "familia": "7315",
@@ -2439,7 +2682,8 @@
    "precio_p25": 306000.0,
    "precio_mediano": 1536134.0,
    "precio_p75": 9503800.0,
-   "monto_total": 15653730095.4907
+   "monto_total": 15653730095.4907,
+   "heredada": true
   },
   {
    "familia": "7316",
@@ -2449,7 +2693,8 @@
    "precio_p25": 806250.0,
    "precio_mediano": 4200900.0,
    "precio_p75": 8000000.0,
-   "monto_total": 1010299382.0
+   "monto_total": 1010299382.0,
+   "heredada": true
   },
   {
    "familia": "7317",
@@ -2459,7 +2704,8 @@
    "precio_p25": 70000.0,
    "precio_mediano": 680000.0,
    "precio_p75": 1570800.0,
-   "monto_total": 734107593.93
+   "monto_total": 734107593.93,
+   "heredada": true
   },
   {
    "familia": "7318",
@@ -2469,7 +2715,8 @@
    "precio_p25": 45000.0,
    "precio_mediano": 1485000.0,
    "precio_p75": 12605042.0,
-   "monto_total": 80831830.0
+   "monto_total": 80831830.0,
+   "heredada": true
   },
   {
    "familia": "7610",
@@ -2479,7 +2726,8 @@
    "precio_p25": 152500.0,
    "precio_mediano": 1866000.0,
    "precio_p75": 3490000.0,
-   "monto_total": 213601262.996
+   "monto_total": 213601262.996,
+   "heredada": true
   },
   {
    "familia": "7611",
@@ -2489,7 +2737,8 @@
    "precio_p25": 670000.0,
    "precio_mediano": 3260000.0,
    "precio_p75": 14994000.0,
-   "monto_total": 61455902800346.48
+   "monto_total": 61455902800346.48,
+   "heredada": true
   },
   {
    "familia": "7612",
@@ -2499,7 +2748,8 @@
    "precio_p25": 9647.0,
    "precio_mediano": 1989000.0,
    "precio_p75": 18984982.0,
-   "monto_total": 9245311959.0
+   "monto_total": 9245311959.0,
+   "heredada": true
   },
   {
    "familia": "7613",
@@ -2509,7 +2759,8 @@
    "precio_p25": 2850.0,
    "precio_mediano": 2850.0,
    "precio_p75": 2850.0,
-   "monto_total": 54252850.0
+   "monto_total": 54252850.0,
+   "heredada": true
   },
   {
    "familia": "7710",
@@ -2519,7 +2770,8 @@
    "precio_p25": 7000000.0,
    "precio_mediano": 14161000.0,
    "precio_p75": 21008403.0,
-   "monto_total": 971127274.0
+   "monto_total": 971127274.0,
+   "heredada": true
   },
   {
    "familia": "7711",
@@ -2529,7 +2781,8 @@
    "precio_p25": 16752272.0,
    "precio_mediano": 19333700.0,
    "precio_p75": 19333700.0,
-   "monto_total": 100317672.0
+   "monto_total": 100317672.0,
+   "heredada": true
   },
   {
    "familia": "7712",
@@ -2539,7 +2792,8 @@
    "precio_p25": 9000000.0,
    "precio_mediano": 12933361.0,
    "precio_p75": 15800000.0,
-   "monto_total": 200058082.0
+   "monto_total": 200058082.0,
+   "heredada": true
   },
   {
    "familia": "7810",
@@ -2549,7 +2803,8 @@
    "precio_p25": 780000.0,
    "precio_mediano": 1995000.0,
    "precio_p75": 6965000.0,
-   "monto_total": 7907273883.08
+   "monto_total": 7907273883.08,
+   "heredada": true
   },
   {
    "familia": "7811",
@@ -2559,7 +2814,8 @@
    "precio_p25": 100000.0,
    "precio_mediano": 400000.0,
    "precio_p75": 3480000.0,
-   "monto_total": 4761033641473307.0
+   "monto_total": 4761033641473307.0,
+   "heredada": true
   },
   {
    "familia": "7812",
@@ -2569,7 +2825,8 @@
    "precio_p25": 350000.0,
    "precio_mediano": 3460000.0,
    "precio_p75": 13300000.0,
-   "monto_total": 306812638.16
+   "monto_total": 306812638.16,
+   "heredada": true
   },
   {
    "familia": "7813",
@@ -2579,7 +2836,8 @@
    "precio_p25": 110000.0,
    "precio_mediano": 2184874.0,
    "precio_p75": 3292560.0,
-   "monto_total": 726955169.66
+   "monto_total": 726955169.66,
+   "heredada": true
   },
   {
    "familia": "7814",
@@ -2589,7 +2847,8 @@
    "precio_p25": 10996.0,
    "precio_mediano": 5700000.0,
    "precio_p75": 5700000.0,
-   "monto_total": 25415247.0
+   "monto_total": 25415247.0,
+   "heredada": true
   },
   {
    "familia": "7818",
@@ -2599,7 +2858,8 @@
    "precio_p25": 105042.0,
    "precio_mediano": 1183724.0,
    "precio_p75": 8088000.0,
-   "monto_total": 3781351416.4248
+   "monto_total": 3781351416.4248,
+   "heredada": true
   },
   {
    "familia": "8010",
@@ -2609,7 +2869,8 @@
    "precio_p25": 5714286.0,
    "precio_mediano": 16541000.0,
    "precio_p75": 40000000.0,
-   "monto_total": 5353650395.0
+   "monto_total": 5353650395.0,
+   "heredada": true
   },
   {
    "familia": "8011",
@@ -2619,7 +2880,8 @@
    "precio_p25": 150000.0,
    "precio_mediano": 1479000.0,
    "precio_p75": 7880845.0,
-   "monto_total": 538247409234140.2
+   "monto_total": 538247409234140.2,
+   "heredada": true
   },
   {
    "familia": "8012",
@@ -2629,7 +2891,8 @@
    "precio_p25": 1045500.0,
    "precio_mediano": 1045500.0,
    "precio_p75": 1045500.0,
-   "monto_total": 235045500.0
+   "monto_total": 235045500.0,
+   "heredada": true
   },
   {
    "familia": "8013",
@@ -2639,7 +2902,8 @@
    "precio_p25": 2100840.0,
    "precio_mediano": 2261000.0,
    "precio_p75": 10000000.0,
-   "monto_total": 349639840.0
+   "monto_total": 349639840.0,
+   "heredada": true
   },
   {
    "familia": "8014",
@@ -2649,7 +2913,8 @@
    "precio_p25": 3500000.0,
    "precio_mediano": 9800000.0,
    "precio_p75": 20900000.0,
-   "monto_total": 16756722004.73
+   "monto_total": 16756722004.73,
+   "heredada": true
   },
   {
    "familia": "8015",
@@ -2659,7 +2924,8 @@
    "precio_p25": 1355000.0,
    "precio_mediano": 1355000.0,
    "precio_p75": 1355000.0,
-   "monto_total": 48780000.0
+   "monto_total": 48780000.0,
+   "heredada": true
   },
   {
    "familia": "8016",
@@ -2669,7 +2935,8 @@
    "precio_p25": 2700.0,
    "precio_mediano": 7900.0,
    "precio_p75": 42000.0,
-   "monto_total": 3253410004.0
+   "monto_total": 3253410004.0,
+   "heredada": true
   },
   {
    "familia": "8110",
@@ -2679,7 +2946,8 @@
    "precio_p25": 3430000.0,
    "precio_mediano": 12000000.0,
    "precio_p75": 22310000.0,
-   "monto_total": 1059068199.0
+   "monto_total": 1059068199.0,
+   "heredada": true
   },
   {
    "familia": "8111",
@@ -2689,7 +2957,8 @@
    "precio_p25": 121008.0,
    "precio_mediano": 2098149.0,
    "precio_p75": 11880000.0,
-   "monto_total": 5419641734.5285
+   "monto_total": 5419641734.5285,
+   "heredada": true
   },
   {
    "familia": "8112",
@@ -2699,7 +2968,8 @@
    "precio_p25": 33613445.0,
    "precio_mediano": 33613445.0,
    "precio_p75": 33613445.0,
-   "monto_total": 77600298.0
+   "monto_total": 77600298.0,
+   "heredada": true
   },
   {
    "familia": "8113",
@@ -2709,7 +2979,8 @@
    "precio_p25": 34000000.0,
    "precio_mediano": 81084034.0,
    "precio_p75": 108400000.0,
-   "monto_total": 340087934.0
+   "monto_total": 340087934.0,
+   "heredada": true
   },
   {
    "familia": "8114",
@@ -2719,7 +2990,8 @@
    "precio_p25": 87300.0,
    "precio_mediano": 620000.0,
    "precio_p75": 6224640.0,
-   "monto_total": 2811803540.0
+   "monto_total": 2811803540.0,
+   "heredada": true
   },
   {
    "familia": "8115",
@@ -2729,7 +3001,8 @@
    "precio_p25": 8000000.0,
    "precio_mediano": 29000000.0,
    "precio_p75": 76093887.0,
-   "monto_total": 1576970708.0
+   "monto_total": 1576970708.0,
+   "heredada": true
   },
   {
    "familia": "8210",
@@ -2739,7 +3012,8 @@
    "precio_p25": 39800.0,
    "precio_mediano": 504263.0,
    "precio_p75": 4150000.0,
-   "monto_total": 1902125194.0
+   "monto_total": 1902125194.0,
+   "heredada": true
   },
   {
    "familia": "8211",
@@ -2749,7 +3023,8 @@
    "precio_p25": 250000.0,
    "precio_mediano": 4284000.0,
    "precio_p75": 13780200.0,
-   "monto_total": 454757419.8
+   "monto_total": 454757419.8,
+   "heredada": true
   },
   {
    "familia": "8212",
@@ -2759,7 +3034,8 @@
    "precio_p25": 765.0,
    "precio_mediano": 4900.0,
    "precio_p75": 554762.0,
-   "monto_total": 5624163928.3039
+   "monto_total": 5624163928.3039,
+   "heredada": true
   },
   {
    "familia": "8213",
@@ -2769,7 +3045,8 @@
    "precio_p25": 19500.0,
    "precio_mediano": 6960000.0,
    "precio_p75": 8925000.0,
-   "monto_total": 122708250.0
+   "monto_total": 122708250.0,
+   "heredada": true
   },
   {
    "familia": "8214",
@@ -2779,7 +3056,8 @@
    "precio_p25": 3000000.0,
    "precio_mediano": 9000000.0,
    "precio_p75": 11543000.0,
-   "monto_total": 106773462.0
+   "monto_total": 106773462.0,
+   "heredada": true
   },
   {
    "familia": "8215",
@@ -2789,7 +3067,8 @@
    "precio_p25": 1008403.0,
    "precio_mediano": 7000000.0,
    "precio_p75": 15500000.0,
-   "monto_total": 370296721.0
+   "monto_total": 370296721.0,
+   "heredada": true
   },
   {
    "familia": "8310",
@@ -2799,7 +3078,8 @@
    "precio_p25": 750000.0,
    "precio_mediano": 8403361.0,
    "precio_p75": 55361344.537,
-   "monto_total": 31557553784.871
+   "monto_total": 31557553784.871,
+   "heredada": true
   },
   {
    "familia": "8311",
@@ -2809,7 +3089,8 @@
    "precio_p25": 306254.0,
    "precio_mediano": 3289428.0,
    "precio_p75": 24316176.0,
-   "monto_total": 5466775228.622
+   "monto_total": 5466775228.622,
+   "heredada": true
   },
   {
    "familia": "8312",
@@ -2819,7 +3100,8 @@
    "precio_p25": 369000.0,
    "precio_mediano": 2212437.0,
    "precio_p75": 10184000.0,
-   "monto_total": 1807898047.6
+   "monto_total": 1807898047.6,
+   "heredada": true
   },
   {
    "familia": "8410",
@@ -2829,7 +3111,8 @@
    "precio_p25": 1.0,
    "precio_mediano": 7990.0,
    "precio_p75": 7990.0,
-   "monto_total": 120007990.0
+   "monto_total": 120007990.0,
+   "heredada": true
   },
   {
    "familia": "8411",
@@ -2839,7 +3122,8 @@
    "precio_p25": 930000.0,
    "precio_mediano": 6303000.0,
    "precio_p75": 11700000.0,
-   "monto_total": 305364753.0
+   "monto_total": 305364753.0,
+   "heredada": true
   },
   {
    "familia": "8413",
@@ -2849,7 +3133,8 @@
    "precio_p25": 448168.0,
    "precio_mediano": 1658754.0,
    "precio_p75": 9221100.0,
-   "monto_total": 4116127653.4964
+   "monto_total": 4116127653.4964,
+   "heredada": true
   },
   {
    "familia": "8510",
@@ -2859,7 +3144,8 @@
    "precio_p25": 25000.0,
    "precio_mediano": 170000.0,
    "precio_p75": 2400000.0,
-   "monto_total": 2051917741.2
+   "monto_total": 2051917741.2,
+   "heredada": true
   },
   {
    "familia": "8511",
@@ -2869,7 +3155,8 @@
    "precio_p25": 18936.0,
    "precio_mediano": 745734.0,
    "precio_p75": 5950000.0,
-   "monto_total": 1618481288.1339998
+   "monto_total": 1618481288.1339998,
+   "heredada": true
   },
   {
    "familia": "8512",
@@ -2879,7 +3166,8 @@
    "precio_p25": 2700.0,
    "precio_mediano": 24000.0,
    "precio_p75": 130000.0,
-   "monto_total": 155493074914.0574
+   "monto_total": 155493074914.0574,
+   "heredada": true
   },
   {
    "familia": "8514",
@@ -2889,7 +3177,8 @@
    "precio_p25": 925.0,
    "precio_mediano": 2130.0,
    "precio_p75": 20000.0,
-   "monto_total": 692727763.0
+   "monto_total": 692727763.0,
+   "heredada": true
   },
   {
    "familia": "8515",
@@ -2899,7 +3188,8 @@
    "precio_p25": 2224000.0,
    "precio_mediano": 4836000.0,
    "precio_p75": 4836000.0,
-   "monto_total": 38796216.0
+   "monto_total": 38796216.0,
+   "heredada": true
   },
   {
    "familia": "8610",
@@ -2909,7 +3199,8 @@
    "precio_p25": 3455508.0,
    "precio_mediano": 10000000.0,
    "precio_p75": 19000000.0,
-   "monto_total": 620181808.0
+   "monto_total": 620181808.0,
+   "heredada": true
   },
   {
    "familia": "8611",
@@ -2919,7 +3210,8 @@
    "precio_p25": 985000.0,
    "precio_mediano": 1700000.0,
    "precio_p75": 3395000.0,
-   "monto_total": 3468362857.7
+   "monto_total": 3468362857.7,
+   "heredada": true
   },
   {
    "familia": "8612",
@@ -2929,7 +3221,8 @@
    "precio_p25": 13000000.0,
    "precio_mediano": 15000000.0,
    "precio_p75": 35000000.0,
-   "monto_total": 113000000.0
+   "monto_total": 113000000.0,
+   "heredada": true
   },
   {
    "familia": "8613",
@@ -2939,7 +3232,8 @@
    "precio_p25": 15252.0,
    "precio_mediano": 34990.0,
    "precio_p75": 64990.0,
-   "monto_total": 1378914452.5659
+   "monto_total": 1378914452.5659,
+   "heredada": true
   },
   {
    "familia": "8614",
@@ -2949,7 +3243,8 @@
    "precio_p25": 650880.0,
    "precio_mediano": 3538000.0,
    "precio_p75": 11900000.0,
-   "monto_total": 1073987169.0
+   "monto_total": 1073987169.0,
+   "heredada": true
   },
   {
    "familia": "9010",
@@ -2959,7 +3254,8 @@
    "precio_p25": 5990.0,
    "precio_mediano": 26330.0,
    "precio_p75": 2012400.0,
-   "monto_total": 2601791801.2692
+   "monto_total": 2601791801.2692,
+   "heredada": true
   },
   {
    "familia": "9011",
@@ -2969,7 +3265,8 @@
    "precio_p25": 640131.0,
    "precio_mediano": 6230000.0,
    "precio_p75": 13440000.0,
-   "monto_total": 1621061350.0
+   "monto_total": 1621061350.0,
+   "heredada": true
   },
   {
    "familia": "9012",
@@ -2979,7 +3276,8 @@
    "precio_p25": 1750000.0,
    "precio_mediano": 7186666.0,
    "precio_p75": 15000000.0,
-   "monto_total": 2047507184.0
+   "monto_total": 2047507184.0,
+   "heredada": true
   },
   {
    "familia": "9013",
@@ -2989,7 +3287,8 @@
    "precio_p25": 310000.0,
    "precio_mediano": 310000.0,
    "precio_p75": 310000.0,
-   "monto_total": 50710000.0
+   "monto_total": 50710000.0,
+   "heredada": true
   },
   {
    "familia": "9014",
@@ -2999,7 +3298,8 @@
    "precio_p25": 16103.0,
    "precio_mediano": 750000.0,
    "precio_p75": 2900000.0,
-   "monto_total": 244961260.08
+   "monto_total": 244961260.08,
+   "heredada": true
   },
   {
    "familia": "9015",
@@ -3009,7 +3309,8 @@
    "precio_p25": 5490000.0,
    "precio_mediano": 12550000.0,
    "precio_p75": 20000000.0,
-   "monto_total": 935957288.0
+   "monto_total": 935957288.0,
+   "heredada": true
   },
   {
    "familia": "9110",
@@ -3019,7 +3320,8 @@
    "precio_p25": 175000.0,
    "precio_mediano": 175000.0,
    "precio_p75": 175000.0,
-   "monto_total": 122890669.0
+   "monto_total": 122890669.0,
+   "heredada": true
   },
   {
    "familia": "9111",
@@ -3029,7 +3331,8 @@
    "precio_p25": 9225.0,
    "precio_mediano": 26000.0,
    "precio_p75": 348000.0,
-   "monto_total": 9697773613.7385
+   "monto_total": 9697773613.7385,
+   "heredada": true
   },
   {
    "familia": "9210",
@@ -3039,7 +3342,8 @@
    "precio_p25": 2258620.0,
    "precio_mediano": 6165912.0,
    "precio_p75": 29635200.0,
-   "monto_total": 18519003408.0
+   "monto_total": 18519003408.0,
+   "heredada": true
   },
   {
    "familia": "9212",
@@ -3049,7 +3353,8 @@
    "precio_p25": 2522006.0,
    "precio_mediano": 4425240.0,
    "precio_p75": 12480000.0,
-   "monto_total": 10293484478.9872
+   "monto_total": 10293484478.9872,
+   "heredada": true
   },
   {
    "familia": "9310",
@@ -3059,7 +3364,8 @@
    "precio_p25": 4855200.0,
    "precio_mediano": 4855200.0,
    "precio_p75": 4855200.0,
-   "monto_total": 31745956.0
+   "monto_total": 31745956.0,
+   "heredada": true
   },
   {
    "familia": "9312",
@@ -3069,7 +3375,8 @@
    "precio_p25": 4400000.0,
    "precio_mediano": 4400000.0,
    "precio_p75": 4400000.0,
-   "monto_total": 4400000.0
+   "monto_total": 4400000.0,
+   "heredada": true
   },
   {
    "familia": "9313",
@@ -3079,7 +3386,8 @@
    "precio_p25": 2300.0,
    "precio_mediano": 34600.952,
    "precio_p75": 1840336.0,
-   "monto_total": 3606195431.0
+   "monto_total": 3606195431.0,
+   "heredada": true
   },
   {
    "familia": "9314",
@@ -3089,7 +3397,8 @@
    "precio_p25": 7900000.0,
    "precio_mediano": 18000000.0,
    "precio_p75": 39000000.0,
-   "monto_total": 3819137579.1392
+   "monto_total": 3819137579.1392,
+   "heredada": true
   },
   {
    "familia": "9315",
@@ -3099,7 +3408,8 @@
    "precio_p25": 1780925.0,
    "precio_mediano": 20000000.0,
    "precio_p75": 160000000.0,
-   "monto_total": 1843588353.0
+   "monto_total": 1843588353.0,
+   "heredada": true
   },
   {
    "familia": "9316",
@@ -3109,7 +3419,8 @@
    "precio_p25": 6216700.0,
    "precio_mediano": 6216700.0,
    "precio_p75": 6216700.0,
-   "monto_total": 6216700.0
+   "monto_total": 6216700.0,
+   "heredada": true
   },
   {
    "familia": "9410",
@@ -3119,7 +3430,8 @@
    "precio_p25": 2300000.0,
    "precio_mediano": 8950000.0,
    "precio_p75": 16050000.0,
-   "monto_total": 49148400.0
+   "monto_total": 49148400.0,
+   "heredada": true
   },
   {
    "familia": "9412",
@@ -3129,7 +3441,8 @@
    "precio_p25": 1567875.0,
    "precio_mediano": 4000000.0,
    "precio_p75": 9235000.0,
-   "monto_total": 1087115639.0
+   "monto_total": 1087115639.0,
+   "heredada": true
   },
   {
    "familia": "9413",
@@ -3139,7 +3452,8 @@
    "precio_p25": 1149.0,
    "precio_mediano": 4443530.0,
    "precio_p75": 4443530.0,
-   "monto_total": 14444679.0
+   "monto_total": 14444679.0,
+   "heredada": true
   }
  ],
  "oportunidades": [
